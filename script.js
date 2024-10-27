@@ -94,7 +94,8 @@ function exibirQuestoes(questoes) {
             const questaoDiv = document.createElement('div');
             questaoDiv.className = 'questao';
             questaoDiv.style.marginLeft = '15px';
-            questaoDiv.style.marginTop = '15px';
+            questaoDiv.style.marginTop = '30px'; // Aumenta a margem superior
+            questaoDiv.style.paddingBottom = '10px'; // Adiciona um pouco de padding na parte inferior
 
             questaoDiv.innerHTML = `                
                 <strong>Ano:</strong> ${questao.ano} <br>
@@ -113,7 +114,7 @@ function exibirQuestoes(questoes) {
 
                 const respostaCorreta = questao.questao.resposta_correta?.trim().replace(/\n/g, '<br>') || 'Nenhuma resposta correta disponível.';
                 questaoDiv.innerHTML += `
-                    <button class="toggle-btn" onclick="toggleVisibility('respostaCorreta-${index}')" style="margin-top: 5px; background-color: rgb(69, 221, 148); color: black; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer; border-radius: 5px;">Resposta Correta</button>
+                    <button class="toggle-btn" onclick="toggleVisibility('respostaCorreta-${index}')" style="margin-top: 15px; background-color: rgb(69, 221, 148); color: black; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer; border-radius: 5px;">Resposta Correta</button>
                     <div id="respostaCorreta-${index}" style="display: none; margin-top: 5px;">
                         <strong>Resposta Correta:</strong> <span style="text-align: justify;">${respostaCorreta}</span> <br>
                     </div>
@@ -136,7 +137,7 @@ function exibirQuestoes(questoes) {
 
                 // Verifica se existe uma resposta esperada antes de criar o botão
                 if (respostaEsperada) {
-                    respostaDiv.innerHTML = `<strong>Resposta Esperada:</strong> <br> <span style="text-align: justify;">${respostaEsperada.replace(/\n/g, '<br>')}</span> <br>`;
+                    respostaDiv.innerHTML = `<strong>Resposta Esperada:</strong><br><br>${respostaEsperada.replace(/\n/g, '<br>')}`; // Adiciona duas quebras de linha aqui
 
                     // Adiciona a imagem da resposta esperada, se disponível e válida
                     if (imgMatch && imgMatch[1]) {
@@ -156,17 +157,22 @@ function exibirQuestoes(questoes) {
 
                     // Somente cria o botão se houver conteúdo na resposta
                     questaoDiv.innerHTML += `
-                        <button class="toggle-btn" onclick="toggleVisibility('respostaEsperada-${index}')" style="margin-top: 5px; background-color: rgb(69, 221, 148); color: black; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer; border-radius: 5px;">Resposta Esperada</button>
-                    `;
+                        <button class="toggle-btn" onclick="toggleVisibility('respostaEsperada-${index}')" style="margin-top: 30px; background-color: rgb(69, 221, 148); color: black; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer; border-radius: 5px;">Resposta Esperada</button>
+                    `; // Aumenta a margem superior do botão
                     questaoDiv.appendChild(respostaDiv);
                 }
             }
 
+            // Adiciona a linha divisória entre as questões
+            const hr = document.createElement('hr');
+            hr.style.border = '1px solid black'; // Define a cor e espessura da linha
+            hr.style.margin = '25px 0'; // Margem acima e abaixo da linha
+
             questoesContainer.appendChild(questaoDiv);
+            questoesContainer.appendChild(hr); // Adiciona a linha divisória após a questão
         });
     }
 }
-
 
 
 function toggleVisibility(id) {
