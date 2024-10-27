@@ -63,9 +63,8 @@ function filtrarPorFiltros(questao, ano, modulo, disciplina, search) {
     const disciplinaMatch = disciplina ? 
         (questao.disciplina && normalizedQuestaoDisciplina === normalizedDisciplina) : true;
 
-    // Modificação aqui: Verifica se a busca é uma palavra exata
     const normalizedSearch = normalizeString(search);
-    const searchMatch = new RegExp(`\\b${normalizedSearch}\\b`, 'i').test(questao.questao.enunciado);
+    const searchMatch = new RegExp(`\\b${normalizedSearch}\\b`, 'i').test(normalizeString(questao.questao.enunciado));
 
     return anoMatch && moduloMatch && disciplinaMatch && searchMatch;
 }
@@ -75,7 +74,6 @@ function normalizeString(str) {
 }
 
 function isValidImageUrl(url) {
-    // Verifica se a URL é uma string e se termina com uma extensão de imagem comum
     return typeof url === 'string' && 
            (url.endsWith('.jpg') || url.endsWith('.jpeg') || 
             url.endsWith('.png') || url.endsWith('.gif') || 
@@ -96,8 +94,8 @@ function exibirQuestoes(questoes) {
             const questaoDiv = document.createElement('div');
             questaoDiv.className = 'questao';
             questaoDiv.style.marginLeft = '15px';
-            questaoDiv.style.marginTop = '30px'; // Aumenta a margem superior
-            questaoDiv.style.paddingBottom = '10px'; // Adiciona um pouco de padding na parte inferior
+            questaoDiv.style.marginTop = '30px';
+            questaoDiv.style.paddingBottom = '10px';
 
             questaoDiv.innerHTML = `                
                 <strong>Ano:</strong> ${questao.ano} <br>
@@ -129,7 +127,7 @@ function exibirQuestoes(questoes) {
                 }
 
                 const respostaEsperada = questao.questao.resposta_esperada?.trim() || '';
-                const imgRegex = /\(([^)]+)\)/; // Regex para encontrar o caminho da imagem entre parênteses
+                const imgRegex = /\(([^)]+)\)/;
                 const imgMatch = respostaEsperada.match(imgRegex);
 
                 const respostaDiv = document.createElement('div');
@@ -137,11 +135,9 @@ function exibirQuestoes(questoes) {
                 respostaDiv.style.display = 'none';
                 respostaDiv.style.marginTop = '5px';
 
-                // Verifica se existe uma resposta esperada antes de criar o botão
                 if (respostaEsperada) {
-                    respostaDiv.innerHTML = `<strong>Resposta Esperada:</strong><br><br>${respostaEsperada.replace(/\n/g, '<br>')}`; // Adiciona duas quebras de linha aqui
+                    respostaDiv.innerHTML = `<strong>Resposta Esperada:</strong><br><br>${respostaEsperada.replace(/\n/g, '<br>')}`;
 
-                    // Adiciona a imagem da resposta esperada, se disponível e válida
                     if (imgMatch && imgMatch[1]) {
                         const imageUrl = imgMatch[1].trim();
                         if (isValidImageUrl(imageUrl)) {
@@ -149,7 +145,6 @@ function exibirQuestoes(questoes) {
                         }
                     }
 
-                    // Verifica se a imagem da resposta está disponível e válida
                     if (questao.questao.imagem_url_resp) {
                         const respostaImageUrl = questao.questao.imagem_url_resp.trim();
                         if (isValidImageUrl(respostaImageUrl)) {
@@ -157,25 +152,22 @@ function exibirQuestoes(questoes) {
                         }
                     }
 
-                    // Somente cria o botão se houver conteúdo na resposta
                     questaoDiv.innerHTML += `
                         <button class="toggle-btn" onclick="toggleVisibility('respostaEsperada-${index}')" style="margin-top: 30px; background-color: rgb(69, 221, 148); color: black; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer; border-radius: 5px;">Resposta Esperada</button>
-                    `; // Aumenta a margem superior do botão
+                    `;
                     questaoDiv.appendChild(respostaDiv);
                 }
             }
 
-            // Adiciona a linha divisória entre as questões
             const hr = document.createElement('hr');
-            hr.style.border = '1px solid black'; // Define a cor e espessura da linha
-            hr.style.margin = '25px 0'; // Margem acima e abaixo da linha
+            hr.style.border = '1px solid black';
+            hr.style.margin = '25px 0';
 
             questoesContainer.appendChild(questaoDiv);
-            questoesContainer.appendChild(hr); // Adiciona a linha divisória após a questão
+            questoesContainer.appendChild(hr);
         });
     }
 }
-
 
 function toggleVisibility(id) {
     const respostaDiv = document.getElementById(id);
