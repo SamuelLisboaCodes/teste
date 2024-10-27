@@ -63,7 +63,9 @@ function filtrarPorFiltros(questao, ano, modulo, disciplina, search) {
     const disciplinaMatch = disciplina ? 
         (questao.disciplina && normalizedQuestaoDisciplina === normalizedDisciplina) : true;
 
-    const searchMatch = questao.questao.enunciado.toLowerCase().includes(search);
+    // Modificação aqui: Verifica se a busca é uma palavra exata
+    const normalizedSearch = normalizeString(search);
+    const searchMatch = new RegExp(`\\b${normalizedSearch}\\b`, 'i').test(questao.questao.enunciado);
 
     return anoMatch && moduloMatch && disciplinaMatch && searchMatch;
 }
