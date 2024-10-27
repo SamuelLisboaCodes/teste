@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PISMpro</title>
+    <link rel="icon" type="image/png" href="img/icon.png">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css"> <!-- Link para o arquivo CSS -->
+</head>
+<body>
+
+    <header>
+        <div class="logo-container">
+            <img src="img/logosemfundo.png" alt="Logo" class="logo"> <!-- Imagem do logo na pasta 'img' -->
+        </div>
+        
+        <!-- Formulário para filtros -->
+        <div class="filters">
+            <select id="ano">
+                <option value="">Ano</option>
+                <option value="2024">2024</option>
+                <option value="2023">2023</option>
+                <option value="2022">2022</option>
+                <option value="2021">2021</option>
+                <option value="2020">2020</option>
+                <option value="2019">2019</option>
+                <option value="2018">2018</option>
+                <option value="2017">2017</option>
+                <option value="2016">2016</option>
+                <option value="2015">2015</option>
+                <option value="2009">2009</option>
+                <option value="2008">2008</option>
+                <option value="2007">2007</option>
+                <option value="2006">2006</option>
+                <option value="2005">2005</option>
+                <option value="2004">2004</option>
+            </select>
+            <select id="modulo">
+                <option value="">Módulo</option>
+                <option value="1">Módulo 1</option>
+                <option value="2">Módulo 2</option>
+                <option value="3">Módulo 3</option>
+            </select>
+            <select id="disciplina">
+                <option value="">Disciplina</option>
+                <option value="matematica">Matemática</option>
+                <option value="fisica">Física</option>
+                <option value="quimica">Química</option>
+            </select>
+            <select id="tipo">
+                <option value="">Tipo</option>
+                <option value="objetiva">Objetiva</option>
+                <option value="discursiva">Discursiva</option>
+            </select>
+            <input type="text" id="search" placeholder="Pesquisar por palavra" class="search"> <!-- Input de pesquisa -->
+            <button type="button" class="button" id="filtrarBtn">
+                <div class="button-top">Filtrar</div>
+                <div class="button-bottom"></div>
+                <div class="button-base"></div>
+            </button>
+            <!-- Botão para mostrar todas as questões -->
+            <button id="mostrarTodasBtn" class="button">
+                Mostrar Todas as Questões
+            </button>
+        </div>
+    </header>
+
+    <main>
+        <div id="questoes"></div> <!-- Contêiner para exibir as questões -->
+        <div id="message" style="margin-left: 20px;"></div> <!-- Contêiner para mensagens -->
+    </main>
+
+    <script src="script.js"></script> <!-- Link para o arquivo JavaScript -->
+</body>
+</html>
