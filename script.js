@@ -23,10 +23,9 @@ function filtrarQuestoes(questoesObj, questoesDisc) {
     const tipo = document.getElementById('tipo').value;
     const search = document.getElementById('search').value.toLowerCase();
 
+    // Se nenhum filtro for aplicado, exibe todas as questões
     if (!ano && !modulo && !disciplina && !tipo && !search) {
-        document.getElementById('message').innerHTML = 'Utilize pelo menos um dos filtros.';
-        document.getElementById('questoes').innerHTML = '';
-        return [];
+        return [...questoesObj, ...questoesDisc]; // Retorna todas as questões
     }
 
     let questoesFiltradas = [];
@@ -48,6 +47,7 @@ function filtrarQuestoes(questoesObj, questoesDisc) {
 
     return questoesFiltradas;
 }
+
 
 function filtrarPorFiltros(questao, ano, modulo, disciplina, search) {
     if (!questao || !questao.questao || !questao.questao.enunciado) {
