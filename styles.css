@@ -32,6 +32,23 @@ position: relative; /* Define a posição para evitar problemas de layout */
     margin: -180px auto 0 auto; /* Centraliza a imagem e espaça acima e abaixo */
 }
 
+#mensagem-inicial {
+  text-align: center;
+  font-size: 24px; /* Aumenta o tamanho do texto */
+  color: #333;
+  margin: 50px auto; /* Centraliza horizontalmente e adiciona espaçamento acima/abaixo */
+  padding: 20px;
+  max-width: 800px; /* Limita a largura do texto */
+  line-height: 1.6; /* Melhora o espaçamento entre linhas */
+}
+
+#container-mensagem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh; /* Empurra a mensagem mais para baixo, ocupando metade da altura da página */
+}
+
 /* Estilos para os filtros */
 .filters {
     display: flex; /* Usa flexbox para os filtros */
@@ -151,4 +168,19 @@ select, .search {
 
 .questao {
     margin-bottom: 20px; /* Ajuste o valor conforme necessário */
+}
+
+/* Estilo para o footer */
+#site-footer {
+  text-align: center;
+  font-size: 16px; /* Tamanho do texto */
+  color: #555; /* Cor do texto */
+  padding: 10px 0; /* Espaçamento interno */
+  background-color: #f8f8f8; /* Fundo leve */
+  border-top: 1px solid #ddd; /* Linha separando o footer do restante */
+}
+
+#site-footer p {
+  margin: 0; /* Remove espaçamento extra */
+  line-height: 1.6; /* Espaçamento entre linhas */
 }
