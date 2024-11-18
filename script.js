@@ -1,3 +1,24 @@
+function mostrarMensagemInicial() {
+    const questoesContainer = document.getElementById('questoes');
+    if (questoesContainer) {
+        questoesContainer.innerHTML = `
+            <div id="container-mensagem">
+                <div id="mensagem-inicial">
+                    <strong>Conheça o PismPro!</strong><br>
+                    Uma ferramenta que te permite filtrar as questões do PISM garantindo a você uma pesquisa simplificada para encontrar mais facilmente questões de forma direcionada para sua preparação!
+                </div>
+            </div>
+        `;
+    } else {
+        console.error('Elemento com id "questoes" não encontrado.');
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    mostrarMensagemInicial();
+});
+
+
 async function carregarQuestoes() {
     try {
         const questoesObj = await fetch('obj.json').then(response => {
