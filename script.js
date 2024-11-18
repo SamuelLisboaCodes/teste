@@ -25,7 +25,7 @@ function filtrarQuestoes(questoesObj, questoesDisc) {
 
     // Se nenhum filtro for aplicado, exibe todas as questões
     if (!ano && !modulo && !disciplina && !tipo && !search) {
-        return [...questoesObj, ...questoesDisc]; // Retorna todas as questões
+        return [...questoesObj, ...questoesDisc];
     }
 
     let questoesFiltradas = [];
@@ -47,7 +47,6 @@ function filtrarQuestoes(questoesObj, questoesDisc) {
 
     return questoesFiltradas;
 }
-
 
 function filtrarPorFiltros(questao, ano, modulo, disciplina, search) {
     if (!questao || !questao.questao || !questao.questao.enunciado) {
@@ -73,13 +72,6 @@ function normalizeString(str) {
     return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 }
 
-function isValidImageUrl(url) {
-    return typeof url === 'string' && 
-           (url.endsWith('.jpg') || url.endsWith('.jpeg') || 
-            url.endsWith('.png') || url.endsWith('.gif') || 
-            url.endsWith('.bmp') || url.endsWith('.webp'));
-}
-
 function exibirQuestoes(questoes) {
     const questoesContainer = document.getElementById('questoes');
     const messageContainer = document.getElementById('message');
@@ -97,68 +89,54 @@ function exibirQuestoes(questoes) {
             questaoDiv.style.marginTop = '30px';
             questaoDiv.style.paddingBottom = '10px';
 
-            questaoDiv.innerHTML = `                
-                <strong>Ano:</strong> ${questao.ano} <br>
-                <strong>Módulo:</strong> ${questao.modulo} <br>
-                <strong>Disciplina:</strong> ${questao.disciplina} <br>
-                <strong>Tipo:</strong> ${questao.tipo} <br>
-                <strong>Enunciado:</strong> <span style="text-align: justify;">${questao.questao.enunciado.replace(/\n/g, '<br>')}</span> <br>
-            `;
+            // Exibir informações gerais da questão
+            questaoDiv.innerHTML += `<strong>Ano:</strong> ${questao.ano} <br>`;
+            questaoDiv.innerHTML += `<strong>Módulo:</strong> ${questao.modulo} <br>`;
+            questaoDiv.innerHTML += `<strong>Disciplina:</strong> ${questao.disciplina} <br>`;
+            questaoDiv.innerHTML += `<strong>Tipo:</strong> ${questao.tipo} <br>`;
 
-            if (questao.tipo === 'objetiva') {
-                questaoDiv.innerHTML += '<strong>Alternativas:</strong><ul>';
-                questao.questao.alternativas.forEach(alt => {
-                    questaoDiv.innerHTML += `<li style="text-align: justify;">${alt.replace(/\n/g, '<br>')}</li>`;
+            // Exibir enunciado
+            const enunciado = formatarTextoComImagens(questao.questao.enunciado);
+            questaoDiv.innerHTML += `<strong>Enunciado:</strong><br>${enunciado} <br>`;
+
+            // Verificar imagem no enunciado
+            if (questao.questao.imagem_url) {
+                questaoDiv.innerHTML += `<img src="${questao.questao.imagem_url}" alt="Imagem Enunciado" style="max-width: 100%; height: auto;"> <br>`;
+            }
+
+            // Exibir alternativas para questões objetivas
+            if (questao.tipo === 'objetiva' && questao.questao.alternativas) {
+                questaoDiv.innerHTML += '<strong>Alternativas:</strong><br>';
+                questao.questao.alternativas.forEach((alternativa) => {
+                    questaoDiv.innerHTML += `${alternativa} <br>`;
                 });
-                questaoDiv.innerHTML += '</ul>';
 
-                const respostaCorreta = questao.questao.resposta_correta?.trim().replace(/\n/g, '<br>') || 'Nenhuma resposta correta disponível.';
+                // Adicionar botão "Resposta Correta" para questões objetivas
+                if (questao.questao.resposta_correta) {
+                    const respostaCorreta = questao.questao.resposta_correta;
+                    questaoDiv.innerHTML += `
+                        <button class="toggle-btn" onclick="toggleVisibility('respostaCorreta-${index}')" style="margin-top: 30px; background-color: rgb(69, 221, 148); color: black; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer; border-radius: 5px;">Resposta Correta</button>
+                        <div id="respostaCorreta-${index}" style="display: none; margin-top: 5px;">
+                            <strong>Resposta Correta:</strong><br>
+                            ${respostaCorreta}
+                        </div>
+                    `;
+                }
+            }
+
+            // Adicionar botão "Resposta Esperada" para questões discursivas
+            if (questao.tipo === 'discursiva' && questao.questao.resposta_esperada) {
+                const respostaEsperada = formatarTextoComImagens(questao.questao.resposta_esperada);
                 questaoDiv.innerHTML += `
-                    <button class="toggle-btn" onclick="toggleVisibility('respostaCorreta-${index}')" style="margin-top: 15px; background-color: rgb(69, 221, 148); color: black; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer; border-radius: 5px;">Resposta Correta</button>
-                    <div id="respostaCorreta-${index}" style="display: none; margin-top: 5px;">
-                        <strong>Resposta Correta:</strong> <span style="text-align: justify;">${respostaCorreta}</span> <br>
+                    <button class="toggle-btn" onclick="toggleVisibility('respostaEsperada-${index}')" style="margin-top: 30px; background-color: rgb(69, 221, 148); color: black; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer; border-radius: 5px;">Resposta Esperada</button>
+                    <div id="respostaEsperada-${index}" style="display: none; margin-top: 5px;">
+                        <strong>Resposta Esperada:</strong><br>
+                        ${respostaEsperada}
                     </div>
                 `;
             }
 
-            if (questao.tipo === 'discursiva') {
-                if (questao.questao.imagem_url_enun) {
-                    questaoDiv.innerHTML += `<img src="${questao.questao.imagem_url_enun}" alt="Imagem do Enunciado" style="max-width: 100%; height: auto;"> <br>`;
-                }
-
-                const respostaEsperada = questao.questao.resposta_esperada?.trim() || '';
-                const imgRegex = /\(([^)]+)\)/;
-                const imgMatch = respostaEsperada.match(imgRegex);
-
-                const respostaDiv = document.createElement('div');
-                respostaDiv.id = `respostaEsperada-${index}`;
-                respostaDiv.style.display = 'none';
-                respostaDiv.style.marginTop = '5px';
-
-                if (respostaEsperada) {
-                    respostaDiv.innerHTML = `<strong>Resposta Esperada:</strong><br><br>${respostaEsperada.replace(/\n/g, '<br>')}`;
-
-                    if (imgMatch && imgMatch[1]) {
-                        const imageUrl = imgMatch[1].trim();
-                        if (isValidImageUrl(imageUrl)) {
-                            respostaDiv.innerHTML += `<img src="${imageUrl}" style="max-width: 100%; height: auto;"> <br>`;
-                        }
-                    }
-
-                    if (questao.questao.imagem_url_resp) {
-                        const respostaImageUrl = questao.questao.imagem_url_resp.trim();
-                        if (isValidImageUrl(respostaImageUrl)) {
-                            respostaDiv.innerHTML += `<img src="${respostaImageUrl}" style="max-width: 100%; height: auto;"> <br>`;
-                        }
-                    }
-
-                    questaoDiv.innerHTML += `
-                        <button class="toggle-btn" onclick="toggleVisibility('respostaEsperada-${index}')" style="margin-top: 30px; background-color: rgb(69, 221, 148); color: black; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer; border-radius: 5px;">Resposta Esperada</button>
-                    `;
-                    questaoDiv.appendChild(respostaDiv);
-                }
-            }
-
+            // Linha de separação entre questões
             const hr = document.createElement('hr');
             hr.style.border = '1px solid black';
             hr.style.margin = '25px 0';
@@ -169,14 +147,26 @@ function exibirQuestoes(questoes) {
     }
 }
 
+
+function formatarTextoComImagens(texto) {
+    if (!texto) return '';
+
+    const imageRegex = /(img\/[^\s]+)/g;
+    const textoFormatado = texto.replace(imageRegex, match => {
+        return `<img src="${match}" alt="Imagem" style="max-width: 100%; height: auto;">`;
+    });
+
+    return textoFormatado.replace(/\n/g, '<br>');
+}
+
 function toggleVisibility(id) {
-    const respostaDiv = document.getElementById(id);
-    if (respostaDiv.style.display === 'none') {
-        respostaDiv.style.display = 'block';
-    } else {
-        respostaDiv.style.display = 'none';
+    const element = document.getElementById(id);
+    if (element) {
+        element.style.display = element.style.display === 'none' ? 'block' : 'none';
     }
 }
+
+
 
 document.getElementById('filtrarBtn').addEventListener('click', async () => {
     const { questoesObj, questoesDisc } = await carregarQuestoes();
