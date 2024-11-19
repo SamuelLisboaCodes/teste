@@ -13,7 +13,7 @@ body, html {
 header {
   background-color: black;
   color: white;
-  height: 240px;
+  height: 300px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -27,9 +27,9 @@ header {
 
 /* Estilos para a imagem do logo */
 .logo {
-  max-height: 150px; /* Tamanho ajustado para telas menores */
+  max-height: 500px; /* Tamanho ajustado para telas menores */
   width: auto;
-  margin: 0 auto;
+  margin: -150px auto;
 }
 
 /* Estilos para a mensagem inicial */
