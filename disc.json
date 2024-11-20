@@ -3010,5 +3010,1518 @@
             "resposta_esperada": "a) F = qE = ma ⇒ a = qE/m ; x = vo t ⇒ t = x/v0\ny = 1/2 at² = ½ . qE/m . x²/v0² => q/m = 2yv0²/Ex²\nb) qvB = qE ⇒v = E/B = (1,0x10³ v/m)/(2,0x10<sup>-4</sup> T) => v = 5x10<sup>6</sup> m/s\nc) q/m = (2x(3,5x10<sup>-2</sup>m)x(5x10<sup>6</sup<m/s)²/((1,0x10³v/m)x(10x10<sup>-2</sup>m)² => q/m = 1,75x10¹¹ C/kg",
             "imagem_url_resp": null
         }
+    },
+    
+    {
+        "ano": 2024,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "A reação de neutralização, quando realizada em quantidades estequiométricas, resulta apenas em sal e água. Sabendo-se que o ácido sulfúrico (H2SO4) e o hidróxido de cálcio (Ca(OH)2) reagem estequiometricamente em meio aquoso, responda os itens abaixo:\nA) Qual a fórmula química e o nome do sal formado?\nB) Escreva a equação química balanceada que representa essa reação de neutralização.\nC) Em junho de 2023, um acidente com um caminhão em Juiz de Fora levou ao vazamento de ácido sulfúrico em uma via pública, que foi neutralizado pelos bombeiros com o uso de cal, nome popular para o hidróxido de cálcio. Quais as implicações que um vazamento como esse pode trazer às pessoas e ao meio ambiente? ",
+            "imagem_url_enun": null,
+            "resposta_esperada": "A) O sal formado é o sulfato de cálcio, cuja fórmula é CaSO4\nB) H2SO4 + Ca(OH)2 → CaSO4 + 2H2O ou 2SO4 (aq) + Ca(OH)2 (aq) → CaSO4 (aq) + 2H2O (l) ou 2H+ (aq) + SO4 2- (aq) + Ca2+ (aq) + 2OH- (aq) → Ca2+ (aq) + SO4 2- (aq) + 2H2O (l)\nC) A resposta deve conter os efeitos perigosos de um ácido forte à saúde humana, como queimaduras na pele, olhos e sistema respiratório, e ao meio ambiente, como desequilíbrio ecológico pela mortandade de peixes e plantas. Como o acidente foi em área urbana pode-se citar a corrosão de estruturas de concreto e o perigo envolvido nisso.",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2024,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O nitrogênio gasoso (N2) e o oxigênio gasoso (O2) podem reagir em condições específicas para formar diferentes óxidos de nitrogênio, conforme representado no esquema abaixo.\nA) Escreva a equação química balanceada para a reação representada na figura.\nB) O dióxido de nitrogênio (NO2) é um gás freqüentemente encontrado na atmosfera poluída e é formado pela reação do NO com O2. Represente a reação química entre quatro moléculas de NO e duas moléculas de O2, utilizando a mesma notação do esquema mostrado na questão, onde os átomos do elemento nitrogênio são representados por '○' e os átomos do elemento oxigênio são representados por '●'.\nC) As representações acima estão de acordo com a teoria atômica de Dalton para as transformações químicas? Justifique sua resposta.",
+            "imagem_url_enun": "img/q2mod12024quidisc",
+            "resposta_esperada": "A) 𝑁2 (𝑔) + 𝑂2 (𝑔) → 2𝑁𝑂(𝑔)\nb) (img/RespBq2mod12024quidisc)\nC) Sim, o modelo de Dalton para transformações químicas é respeitado. Justifica-se por uma das alternativas abaixo:\ni) toda matéria é constituída de átomos.\nii) todos os átomos de um mesmo elemento são idênticos\niii) Nas reações químicas, os átomos não são criados nem destruídos: eles se rearranjam originando novas substâncias.\niv) As substâncias químicas são obtidas pela combinação de átomos de elementos diferentes numa proporção de números inteiros",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2024,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "No Brasil o etanol é um álcool adicionado à gasolina para diminuir a demanda por combustíveis fósseis. Um teste para a verificação da porcentagem de etanol na gasolina é realizado pela mistura de 50 mL desse combustível com 50 mL de água, pois ocorre a separação das fases e o etanol se dissolve na água. Sabendo-se que ao final desse teste a leitura dos volumes foi de 62 mL para a fase aquosa e 38 mL para a fase orgânica, responda os itens abaixo:\nA) Qual o volume de etanol e de gasolina presentes em 50 mL de combustível e qual a porcentagem, em volume, de etanol na gasolina?\nB) Por que o etanol presente na gasolina (fase orgânica) migra para a água (fase aquosa) no teste acima? Explique a partir das interações intermoleculares envolvendo hidrocarbonetos, alcoóis e água.\nC) Sabendo que a densidade do etanol puro é 0,79 g mL-1, calcule a massa de 10 mL de etanol.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "A) O volume da fase aquosa menos o volume de água adicionado é igual ao volume de etanol: 62 mL - 50 mL = 12 mL. O volume da fase orgânica é igual ao volume de gasolina sem etanol: 38 mL.\n12 mL + 38 mL = 50 mL é o volume inicial de combustível logo:\n(12mL . 100)/(50 mL) = 24% (v/v)\nou como uma regra de três:\n12 mL de etanol em 50 mL de combustível\nx mL de etanol em 100 mL de combustível\nx = 12 mL . 100 mL / 50 mL = 24 mL ou 24 % (v/v)\nB) O etanol possui uma hidroxila que pode formar ligações de hidrogênio com a água e, por essa razão, possui maior afinidade pela água do que pela gasolina. Apesar disso, na ausência de água, por possuir cadeia carbônica formada por hidrogênio e carbono, pode ser solúvel na gasolina, que é formada por hidrocarbonetos com estrutura química semelhante. No entanto, as forças intermoleculares envolvendo interações entre cadeias carbônicas apolares são chamadas forças entre dipolos temporários (forças de dispersão de London ou forças de van der Waals) e são mais fracas do que as ligações de hidrogênio.\nC) d = m/v, logo m = d.v\nm = 0,79 g mL-1 . 10 mL = 7,9 g de etanol\nou como regra de três:\n0,79 g de etanol ocupam o volume de 1 mL\nx g de etanol ocupam o volume de 10 mL\nx = 0,79 g . 10 mL / 1 mL = 7,9 g",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2024,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Os ésteres orgânicos são muito versáteis e podem ser utilizados na indústria alimentícia como aromatizantes artificiais. São preparados em laboratório a partir da reação entre um ácido carboxílico e um álcool na presença de um ácido inorgânico como, por exemplo, ácido sulfúrico ou ácido clorídrico. Abaixo estão representados alguns ésteres que possuem importância industrial por possuírem aromas de frutas. Na preparação de todos os ésteres foi utilizado a ácido acético.\nA) Escreva a fórmula estrutural para o ácido acético.\nB) Escreva a fórmula molecular do éster com aroma de maçã.\nC) Segundo a equação química abaixo, que mostra a produção do éster aroma de banana, qual o nome do álcool, seguindo as regras da IUPAC, que foi utilizado?\n img/Cq2mod22024quidisc.png \nD) Em uma bebida isotônica sabor morango, o éster está presente em uma concentração de 3,00 x10-3 mol L1. Qual massa do éster deve ser utilizada para preparar 50,0 L dessa bebida?",
+            "imagem_url_enun": "img/q2mod22024quidisc.png",
+            "resposta_esperada": "A)\nimg/RespAq2mod22024quidisc.png\nB) Fórmula molecular: C4H8O2\nc) img/RespCq2mod12024quidisc.png\nD) C – Concentração (mol L<sup>-1</sup>) n – quantidade de matéria (mol) V = volume (L) C = n/ V rearranjando n = C.V n = 3,00 x10-3 mol L<sup>-1</sup> . 50,0 L = 150x10<sup>-3</sup> mol Fórmula molecular = C6H12O2 Massa molar (MM) = 116 g mol<sup>-1</sup> n = m/MM m = n.MM = 150x10<sup>-3</sup> mol x 116 g mol<sup>-1</sup> = 17,4 g do éster deve ser utilizado.",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2024,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "A reação de oxidação dos materiais ferrosos, como o aço usado na construção de grades e portões, ocorre de maneira mais rápida na presença de água, segundo a equação química abaixo.\n2Fe (s) + O2 (g) + 2H2O (l) → 2Fe(OH)2 (s)\nPosteriormente, o hidróxido de ferro (II) sofre nova oxidação, formando trióxido de ferro (III) ou Fe2O3, que denominamos ferrugem. De acordo com as afirmações acima, responda os itens a seguir:\nA) Se a peça de ferro está exposta a um aumento de temperatura, qual o efeito esperado na velocidade dessa reação?\nB) Explique, usando modelos atômicos e moleculares, como irá variar a velocidade de oxidação do ferro presente em uma barra maciça e em uma palha de aço, quando expostas, nas mesmas condições, ao gás oxigênio e à umidade.\nC) Calcule a massa de hidróxido de ferro (II) que se forma após a reação completa de 11,2 g de ferro.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "A) Qualquer reação química tem sua velocidade de reação aumentada quando a temperatura do meio reativo é elevada, em função do aumento do número de choques efetivos entre as espécies reagentes.\nB) O aumento da área superficial da palha de aço, quando comparado à barra maciça, gera maior contato entre os reagentes ferro, oxigênio e água, levando a palha de aço a sofrer oxidação mais rapidamente, uma vez que na barra maciça, os átomos de ferro no interior da estrutura metálica não podem ser acessados pelos demais reagentes.\nC) Usando as informações da equação química dada:\n2Fe geram 2Fe(OH)2\nmassa de 2 átomos de Fe = 2 . 56 u = 112 u\nmassa de 2 Fe(OH)2 = 2(56 u) + 4(16 u) + 4(1 u) = 180 u\nPortanto:\nse 112 g de Fe geram 180 g de Fe(OH)2\nentão 11,2 g de Fe geram x g de Fe(OH)2\nx = 180 g . 11,2 g / 112 g = 18 g de Fe(OH)2",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2024,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Os ácidos são substâncias capazes de doar íons H+ , produzindo o íon hidrônio (H3O + ) em água. Os ácidos fracos não se ionizam completamente em água; alguns exemplos de ácidos fracos e seus respectivos valores de constantes de ionização (Ka) são mostrados na tabela abaixo.\nDe acordo com os valores das constantes de ionização, responda os itens abaixo:\nA) Escreva a equação de ionização do ácido nitroso em água.\nB) Qual ácido apresentado na tabela é o mais fraco? Justifique sua resposta.\nC) Foram preparadas três soluções aquosas: uma de ácido fluorídrico, uma de ácido hipocloroso e uma de ácido cianídrico, todas com a mesma concentração. Qual solução apresenta o menor valor de pH? Justifique sua resposta.",
+            "imagem_url_enun": "img/q2mod32024quidisc",
+            "resposta_esperada": "A) 𝐻𝑁𝑂2 (𝑎𝑞) + 𝐻2𝑂(𝑙) ⇌ 𝑁𝑂2<sup>-</sup>(𝑎𝑞) + 𝐻3𝑂<sup>+</sup>(𝑎𝑞)\nou\n 𝐻𝑁𝑂2 (𝑎𝑞) ⇌ 𝑁𝑂2<sup>-</sup>(𝑎𝑞) + 𝐻<sup>+</sup> (𝑎𝑞)\nou\n 𝐻𝑁𝑂2 + 𝐻2𝑂 ⇌ 𝑁𝑂2<sup>-</sup> + 𝐻3𝑂 +\nou\n 𝐻𝑁𝑂2 ⇌ 𝑁𝑂2<sup>-</sup> + 𝐻<sup>+</sup>\nB) O ácido mais fraco é o HCN pois apresenta menor valor de Ka o que indica que este ácido apresenta menor ionização em água dentre os ácido mostrados na tabela.\nC) A solução de ácido fluorídrico (HF) irá apresentar o menor pH. Quanto menor o pH, maior a concentração de íons H3O<sup>+</sup> em solução pois pH = -log[H3O<sup>+</sup>]. O ácido mais forte resultará em uma solução com maior concentração de íons H3O<sup>+</sup> em solução e é o que apresenta maior valor de Ka. Portanto a solução de ácido fluorídrico irá apresentar o menor pH.",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2024,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Considere os dados mostrados na tabela e no gráfico a seguir, que foram obtidos para a decomposição de N2O5 em NO2 e O2 na temperatura de 80 o C, segundo a equação abaixo:\n2N2O5(g) ⇌ 4NO2(g) + O2(g)\nDe acordo os dados apresentados, responda os itens abaixo:\nA) Escreva a expressão da constante de equilíbrio (Kc) para a reação.\nB) Em que instante de tempo a reação química atingiu o equilíbrio químico? Justifique sua resposta.\nC) Calcule o valor constante de equilíbrio Kc para essa reação na temperatura de 80 °C.",
+            "imagem_url_enun": "img/q3mod32024quidisc",
+            "resposta_esperada": "A) Kc = ([NO2]<sup>4</sup>[O2])/([N2O5]²)\nB) O equilíbrio foi atingido em 12 minutos de reação pois a partir deste tempo não houve alteração na concentração dos componentes.\nC) Kc = (160000 x 5)/2,25  = 355.555 𝑜𝑢 3,55 × 10<sup>5</sup>",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2024,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O alceno mais simples é o eteno, também conhecido por etileno. Os alcenos geralmente são utilizados como reagentes em diferentes processos, por sofrerem diversos tipos de reação de adição. Analise o esquema abaixo que representa parte do processo da reação de hidratação do 1-hexeno. O carbocátion (carbono com carga positiva) é formado como um intermediário da reação.\n img/q4mod32024quidisc.png \nA) Represente as fórmulas estruturais de três alcenos isoméricos, levando em consideração apenas a isomeria de posição, que poderiam dar origem ao composto abaixo:\n img/Aq4mod32024quidisc.png \nB) Represente um dos isômeros ópticos de fórmula molecular C4H10O, utilizando a fórmula de linha, a fórmula de traço: img/Bq2mod32024quidisc.png \nC) Escreva a formula estrutural do produto da reação química mostrada abaixo.\n img/Cq4mod32024quidisc.png \nD) Considere que foi utilizado para a reação mostrada acima 5,0 mmol do alceno e que o HBr foi utilizado em excesso de 1,5 equivalentes. Qual a massa, em gramas, de HBr foi utilizada?",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq4mod32024quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2024,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Os peptídeos são constituídos por duas ou mais unidades de aminoácidos. Na natureza existe um grande número de aminoácidos naturais e todos eles têm em comum duas funções orgânicas: amina e ácido carboxílico. Analise as equações químicas genéricas mostradas abaixo e responda os itens a seguir:",
+            "imagem_url_enun": "img/q5mod32024quidisc",
+            "resposta_esperada": "img/Respq5mod32024quidisc",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2023,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Dados os pares de elementos químicos descritos abaixo e os compostos formados entre eles, responda ao que se pede:\n• Nitrogênio e hidrogênio (formam o composto A)\n• Sódio e flúor (formam o composto B)\n• Carbono e cloro (formam o composto C)\nA) Quantos elétrons cada um dos elementos possui em sua camada de valência?\nB) Qual o tipo de ligação química presente em cada composto químico formado?\nC) Qual a fórmula do composto químico formado por cada par?",
+            "imagem_url_enun": null,
+            "resposta_esperada": "A)\nNitrogênio: 5 elétrons\nHidrogênio: 1 elétron\nSódio: 1 elétron\nFlúor: 7 elétrons\nCarbono: 4 elétrons\nCloro: 7 elétrons\n\nB)\nComposto A: Ligação covalente\nComposto B: Ligação iônica\nComposto C: Ligação covalente\n\nC)\nComposto A: NH3\nComposto B: NaF\nComposto C: CCl4",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2023,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O gás nitrogênio, presente no ar, precisa ser transformado em íons nitrato e amônio nas raízes das plantas para ser incorporado nas biomoléculas que possuem o elemento químico nitrogênio em sua composição, como as proteínas e o DNA. Johanna Döbereiner, uma pesquisadora brasileira de origem alemã, descobriu que bactérias eram responsáveis por essa conversão química e, por ter contribuído muito para o aumento da produção agrícola, foi indicada ao Prêmio Nobel da Paz em 1997.\nA) Escreva as fórmulas químicas do gás nitrogênio e dos íons nitrato e amônio.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "A)\nGás nitrogênio: N2\nÍon nitrato: NO3<sup>-</sup>\nÍon amônio: NH4<sup>+</sup>",
+            "imagem_url_resp": "null"
+        }
+    },
+    {
+        "ano": 2023,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O detergente é uma solução concentrada de um princípio ativo que faz a remoção da gordura. Uma pessoa, bem informada e preocupada com o meio ambiente, percebeu que podia diluir um frasco de detergente comercial na proporção de uma parte para três partes de água (1:3) e obter a mesma eficiência na remoção de gordura dos pratos lavados. Sabendo-se que o detergente comercial utilizado possui concentração de 0,01 g/L e sua massa molar é 320 g/mol, responda:\nA) Calcule a massa do detergente contida no frasco original, que contém 500 mL.\nB) Calcule a quantidade de matéria (número de mol) do detergente contida nesse mesmo frasco.\nC) Calcule a concentração em mol/L presente no frasco original.\nD) Na diluição 1:3, indique os volumes da solução original de detergente e da água adicional que poderiam ser utilizados.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "A) 0,010 g em 1 L\nx g em 0,5L\nx = 0,005 g\nB) 320 g = 1 mol\n0,005 g = x mol\nlx = 0,000016 mol\nC) C = n / V = 0,000016 mol / 0,5 L\n,5 L C\nD) Volume da solução original de detergente: 0,5 L\nVolume de água: 1,5L",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2023,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Na Química Orgânica, os compostos são reconhecidos pelas cadeias formadas por átomos de carbono e hidrogênio. Entretanto, outros elementos podem fazer parte da estrutura química desses compostos, como o oxigênio. Observe no esquema abaixo a estrutura química do ácido propanóico. Modificações estruturais nesse composto podem originar novos compostos de funções químicas diferentes.\nA) Escreva a estrutura química e a função orgânica do composto (A) que é originado ao substituir o hidrogênio da hidroxila por um grupo metila.\nB) Escreva a estrutura química e a nomenclatura (IUPAC ou usual) do composto (B) que é originado ao substituir a hidroxila por um grupo metila.\nC) Escreva a função química do composto (C) que é originado ao substituir a hidroxila por um átomo de hidrogênio.",
+            "imagem_url_enun": "img/q2mod22023quidisc.png",
+            "resposta_esperada": "img/Respq2mod22023quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2023,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": " A amônia é produzida pelo conhecido processo Haber-Bosch a partir dos gases nitrogênio e hidrogênio, segundo a equação (não balanceada) a seguir:\nN2(g) + H2(g)→ NH3(g)\nO gráfico abaixo se refere às concentrações de reagentes e produto para um experimento de síntese da amônia.\nCom base nesses dados:\nA) Escreva a equação balanceada da síntese da amônia.\nB) Associe as curvas A, B e C com as substâncias N2, H2 e NH3.\nC) Qual a velocidade média de consumo de H2 entre 0 e 60 minutos.\nD) Qual a velocidade média de formação de NH3 entre 60 e 120 minutos?",
+            "imagem_url_enun": "img/q1mod32023quidisc.png",
+            "resposta_esperada": "A) N2(g) + 3H2(g)→ 2NH3(g)\nB)\nCurva A: H2\nCurva B: N2\nCurva C: NH3\nC) 0,016 ou 1,6·10<sup>-2</sup> mol/ L·min\nD) 0,0053 ou 5,3·10<sup>-3</sup> mol/ L·min",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2023,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Os béqueres representados abaixo contêm soluções salinas na concentração de 1,0 mol/L na temperatura de 25 o C. Em cada um dos béqueres encontramos uma placa metálica mergulhada na solução. Com base na reatividade representada em cada frasco, responda ao que se pede:\nA) Escreva as equações químicas referentes às reações ocorridas.\nB) Coloque os metais em ordem crescente de potencial de redução.\nC) Escreva as equações químicas dos processos que ocorrem em uma pilha que associa dois desses materiais, indicando o cátodo e o ânodo.",
+            "imagem_url_enun": "img/q2mod32023quidisc.png",
+            "resposta_esperada": "A) Zn(s) + Fe<sup>2+</sup> (aq) → Zn<sup>2+</sup> (aq) + Fe(s)\nOu\nZn(s) + FeSO4 (aq) → ZnSO4 (aq) + Fe(s)\nZn(s) + Cu<sup>2+</sup> (aq) → Zn<sup>2+</sup> (aq) + Cu(s)\nOu\nZn(s) + CuSO4 (aq) → ZnSO4 (aq) + Cu(s)\nFe(s) + Cu<sup>2+</sup> (aq) → Fe<sup>2+</sup> (aq) + Cu(s)\nOu\nFe(s) + CuSO4 (aq) → FeSO4 (aq) + Cu(s)\nB) Zinco < Ferro < Cobre\nC) Zn/Fe\nZn(s) → Zn<sup>2+</sup> (aq) + 2 e- (anodo)\nFe<sup>2+</sup> (aq) + 2 e- → Fe(s) (catodo)\nOu\nZn/CuZn(s) → Zn<sup>2+</sup> (aq) + 2 e- (anodo)\nCu<sup>2+</sup> (aq) + 2 e- → Cu(s) (catodo)\nOu\nFe/Cu\nFe(s) → Fe<sup>2+</sup> (aq) + 2 e- (anodo)\nCu2+ (aq) + 2 e- → Cu(s) (catodo)",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2023,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Considere a estrutura química dos alcenos abaixo.\nA) Cite o alceno que formaria, por hidrogenação catalítica, hidrocarboneto opticamente ativo e escreva a estrutura química do hidrocarboneto opticamente ativo.\nB) Escreva o produto principal da reação entre 1 mol de HCl e 1 mol do 2,4-dimetil-2-buteno (composto III).\nC) Álcoois podem ser obtidos pela reação de hidratação de alcenos, catalisada por ácido sulfúrico. Dê a equação química balanceada da reação de hidratação catalisada do 1-buteno, mostrando o produto de adição segundo a regra de Markovnikov.\nD) Escreva a estrutura química de um dos alcenos que apresenta isomeria geométrica (cis-trans).",
+            "imagem_url_enun": "img/q3mod32023quidisc.png ",
+            "resposta_esperada": "img/Respq3mod3quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2023,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Considere um béquer contendo uma solução aquosa de um ácido fraco cuja fórmula genérica seja HA. Neste béquer é estabelecido o equilíbrio abaixo:\nHA(aq) + H2O(l) ⇌ H3O<sup>+</sup> (aq) + A<sup>-</sup> (aq)\nA espécie HA tem coloração Azul e a espécie A<sup>-</sup> tem coloração verde. Com base nessas informações responda as questões abaixo:\nA) Qual é a expressão para a constante de dissociação (Ka) desse ácido.\nB) Explique por que a solução adquire a coloração verde quando uma solução aquosa de hidróxido de sódio é adicionada ao béquer contendo o ácido HA?\nC) Explique por que a solução adquire a coloração azul quando vinagre é adicionado ao béquer contendo o ácido HA?",
+            "imagem_url_enun": null,
+            "resposta_esperada": "A) Ka = ([H3O<sup>+</sup>][A<sup>-</sup>])/([HA])\nB) A cor verde predomina uma vez que os íons OH<sup>-</sup> adicionados reagem com os íons H<sup>+</sup> , reduzindo sua concentração, e esses íons precisam ser repostos para que o equilíbrio seja reestabelecido novamente.\nC) A cor azul predomina após a adição de vinagre, de natureza ácida, uma vez que a concentração de íons H<sup>+</sup> aumenta e esse excesso de íons H<sup>+</sup> adicionado tem que ser consumido para que o equilíbrio seja reestabelecido novamente.",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2023,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "A Petrobrás é um dos maiores produtores nacionais de hexano, derivado do petróleo aplicado, principalmente, na extração de óleos vegetais na formulação de colas e adesivos, assim como na fabricação de produtos para limpeza industrial e desengraxe. Ele é um produto inflamável, com alto poder de solvência e secagem muito rápida, e por isso é também usado na fabricação de um hidrocarboneto aromático de grande importância comercial, segundo a equação:\nC6H14 (l) ➝ A + 4 H2 (g)\nSobre o hexano e seus compostos, responda ao que se pede:\nA) Escreva a fórmula estrutural do hexano, contendo todos os átomos e suas ligações.\nB) Apresente a equação balanceada da reação de combustão completa do hexano, contendo os estados físicos de todos os reagentes e produtos.\nC) Escreva o nome, a fórmula molecular e a fórmula estrutural (contendo todos os átomos e suas ligações) da substância A.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq5mod3quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2022,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Em 1776, Alessandro Volta (cientista italiano) relatou um gás que borbulhava em pântanos. A esse gás deu-se o nome de metano. O metano é composto por um átomo de carbono e 4 hidrogênios. Sobre esse gás, faça o que se pede a seguir:\nA) Represente a molécula de metano através do modelo de Lewis.\nB) De acordo com as geometrias e polaridades das moléculas de metano e da água explique por que o metano possui baixa solubilidade em água.",
+            "imagem_url_enun": null,
+            "resposta_esperada": null,
+            "imagem_url_resp": "Respq1mod12022quidisc.png"
+        }
+    },
+    {
+        "ano": 2022,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Sabe-se que o CO2(g) presente em nossa atmosfera pode reagir com a água da chuva e formar um ácido fraco. Sabe-se também, que muitas estátuas aqui no Brasil são feitas a partir de mármore – com composição química majoritária de CaCO3, ou de pedra sabão – formada majoritariamente por Na2CO3.\nA) Represente a distribuição eletrônica do cátion de cálcio, presente no mármore.\nB) Dê os nomes dos compostos CaCO3(s) e Na2CO3(s).",
+            "imagem_url_enun": null,
+            "resposta_esperada": "A) Ca<sup>2+</sup>: 1s² 2s² 2p<sup>6</sup> 3s² 3p<sup>6</sup> ou K=2, L=8, M=8\n B) CaCO3: Carbonato de Cálcio\nNa2CO3: Carbonato de Sódio",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2022,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O gráfico abaixo representa a solubilidade dos gases He, CO, O2 e CH4 em água. De acordo com os dados descritos nesse gráfico, responda:\n A) Qual a tendência da solubilidade de todos esses gases com o aumento da temperatura?\nB) A 5°C, qual a solubilidade, em g/L, do gás hélio em água?",
+            "imagem_url_enun": "q1mod22022quidisc.png",
+            "resposta_esperada": "A) A solubilidade desses gases diminuem com o aumento da temperatura da água.\nB) 5°C He: 0,0005 mol/L ou 0,5 mmol/L\n1 mol de He ------ 4,0 g\n0,5 mmol de He ----- x = 2,0 mg\nportanto, 0,5 mmol/L de He correspondem a 2,0 mg/L ou 0,002 g/L",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2022,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Em 1776, Alessandro Volta, um cientista italiano, observou que o gás CH4(g) – gás metano que saía de um pântano - podia explodir em contato com o ar sob uma faísca elétrica. Atualmente o CH4(g) é o principal componente do biogás.\nA) Nas CNTP, qual o volume que 32 gramas desse gás ocupam? (Dados: Pressão: 1 atm, R=0,082 atm L K<sup>-1</sup> mol<sup>-1</sup> , temperatura = 298K).\nB) De acordo com os dados das três equações abaixo, calcule o ΔH da equação de formação do CH4(g) a partir de C(grafite) e gás hidrogênio, indicando se é um processo endotérmico ou exotérmico.\nI . C(grafite) + O2(g)→ CO2(g) ΔH= -393kJ\nII. H2(g) + ½O2(g)→ H2O(l) ΔH= -285,5kJ\nIII. CH4(g) + 2O2(g)→ CO2(g) + 2H2O(l) ΔH= -889,5kJ",
+            "imagem_url_enun": null,
+            "resposta_esperada": "A) 1 mol CH4 --- 16 g\nx mol CH4 --- 32g; x = 2 mol\nV = nRT V = (nRT)/P V = (2,0 x 0,082 x 298)/1 = 48,9 Litros\n[RETIFICADO] No enunciado, a temperatura descrita como “dados” não está de acordo com a CNTP. Assim, a resposta 44,8 litros também será considerada correta.\nB) ΔHf : C(grafite) + 2H2(g) → CH4(g)\nI . C(grafite) + O2(g)→ CO2(g) ΔH= -393kJ (sem modificações)\nII. 2H2(g) + O2(g)→ 2H2O(l) ΔH= -285,5kJ x2 (multiplicada por 2x)\nIII. CO2(g) + 2H2O(l) → CH4(g) + 2O2(g) ΔH= +889,5kJ (invertida)\nSomando-se as três equações com essa modificações, temos:\nΔHf = (-393kJ) + (-285,5x2 kJ) + (+889,5kJ) = -74,5 kJ, reação exotérmica",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2021,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Astrônomos do Reino Unido anunciaram, em 14 de setembro de 2020, a existência de fosfina na atmosfera do planeta Vênus. A presença dessa molécula despertou o interesse de muitos cientistas por sugerir que há alguma forma de vida naquele planeta. A fosfina é composta por três átomos de hidrogênio e um átomo de fósforo. Sobre esse composto:\nA) Faça a distribuição eletrônica do átomo de fósforo.\nB) Demonstre a estrutura de Lewis da molécula de fosfina.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq1mod12021quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2022,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Hidrocarbonetos com a fórmula C4H8 são compostos que servem para inúmeras reações orgânicas. Desenhe os hidrocarbonetos com essa fórmula que possuem a isomeria geométrica (cis/trans).",
+            "imagem_url_enun": null,
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/q1mod32022quidisc.png"
+        }
+    },
+    {
+        "ano": 2022,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Logo no início da pandemia da COVID-19, foi reconhecida a importância da higiene pessoal para reduzir a transmissão do vírus. No departamento da química da UFJF foi organizada uma equipe de voluntários para a preparação de sabão líquido e sabonete, utilizando o processo de saponificação, que é o processo empregado para a produção de sabão a partir de óleo e gordura usados. Sobre o processo de saponificação, responda:\nA) A que classe de substâncias pertencem óleos e gorduras?\nB) Além da água, que outro reagente é necessário na reação de saponificação?\nC) Quais são os nomes químicos dos dois produtos obtidos na produção de sabões?",
+            "imagem_url_enun": null,
+            "resposta_esperada": "A) Ésteres ou lipídios ou triglicerídeos ou triacilglicerídeos ou triacilgliceróis.\nB) Qualquer base de metais alcalinos ou alcalinos-terrosos ou ésteres ou lipídios ou triglicerídeos ou triacilglicerídeos ou triacilgliceróis.\nC) C) Sabão (ou sal de ácidos carboxílicos) e glicerol (ou glicerina, ou álcool)",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2022,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Alcenos são reagentes iniciais para inúmeras reações químicas e processos industriais. Quando propileno (propeno) reage com HBr, se obtêm 2 (dois) produtos, um majoritário e um minoritário.\nA) Que tipo de reação está sendo descrita?\nB) Desenhe as fórmulas estruturais destes dois produtos e indique qual deles é o majoritário. ",
+            "imagem_url_enun": null,
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq3mod32022quidisc.png"
+        }
+    },
+    {
+        "ano": 2022,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Alguns alimentos como tubérculos, frutas e legumes, depois de cortados sofrem escurecimento devido a ação enzimática oxidativa da polifeniloxidase (PFO) em presença de oxigênio molecular nos compostos fenó naturais desses alimentos formando quinonas. A coloração escura é formada pela polimerização das quinonas em melaninas, conforme o esquema a seguir.\nA) Na equação apresentada, a função da enzima polifeniloxidase (PFO) é?\nB) Considere um experimento no qual uma batata descascada é cortada em duas partes iguais. Uma parte é colocada em um copo com água a 20°C ([O2] = 3,16X10<sup>-3</sup> % v/v), e a outra parte em um prato exposto ao ar atmosférico ([O2] = 20,95X10<sup>-3</sup> % v/v). Em qual das situações haverá o maior e mais rápido escurecimento da batata? Justifique.\nC) Em qual posição do fenol houve a adição de oxigênio?",
+            "imagem_url_enun": "img/q4mod32022quidisc.png",
+            "resposta_esperada": "A) catalisar a reação\nB) O escurecimento da batata será maior e mais rápido na parte exposta ao ar atmosférico, pois há maior concentração de oxigênio.\nC) posição orto ou posição 2 ou posição alfa",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2022,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "- Na respiração, os seres vivos inspiram o ar atmosférico e utilizam o gás oxigênio (O2) nos processos metabólicos no interior das células e liberam o gás carbônico (CO2) pela expiração. Esse processo de transporte de gases influencia no equilíbrio químico do sangue. Quando uma pessoa respira em excesso, sofre de hiperventilação, porque há diminuição da quantidade de CO2 no sangue; porém quando se tem a insuficiência respiratória há um aumento da quantidade de CO2 na corrente sanguínea. A equação química que representa o equilíbrio de gás carbônico e água no sangue é:\nCO2(g) + H2)(l) ⇌ H<sup>+</sup> + HCO3<sup>-</sup>(aq)",
+            "imagem_url_enun": null,
+            "resposta_esperada": "A) a equação é deslocada para a direita ou deslocada para os produtos\nB) A acidose do sangue pode ser causada pela insuficiência respiratória. Pois o excesso de CO2(g) desloca o equilíbrio para a formação de H<sup>+</sup> (aq), diminuindo o pH do sangue",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2021,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Nos estados líquido e sólido as moléculas estão unidas por interações intermoleculares. O composto sulfeto de hidrogênio, no estado líquido, possui interações intermoleculares similares às interações presentes na água. Sobre a principal interação presente no sulfeto de hidrogênio, no estado líquido, responda:\nA) Represente essas interações intermoleculares.\nB) Qual nome é dado a essa interação? ",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq2mod12021quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2021,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": " - As curvas de solubilidade dos sais Li2SO4 e KCl estão representadas na figura abaixo. Sobre os dados apresentados, pergunta-se:\n A) No gráfico há os pontos A, B e C, destacados por pontos pretos. Classifique esses pontos em solução saturada ou não saturada e descreva se há ou não corpo de fundo, levando-se em conta a curva de solubilidade do sulfato de lítio.\nB) Qual seria a concentração do KCl, em g/L e em mol/L, a 30°C? Considere, nesse caso, a massa molar do KCl como sendo 74 g/mol",
+            "imagem_url_enun": "img/q1mod22021quidisc.png ",
+            "resposta_esperada": "O ponto A mostra uma solução não-saturada, pois apresenta menor solubilidade em 100 mL de água do que o sulfato de lítio. O ponto B está exatamente sobre a curva do sulfato de lítio e, portanto, corresponde a uma solução saturada. O ponto C, mostra uma solução saturada com corpo de fundo, pois tem maior massa por 100 mL de água do que o coeficiente de solubilidade do sulfato de lítio. B) Na temperatura de 30 ºC a curva de solubilidade do KCl mostra 37 g desse sal para cada 100 mL de água. Ou seja, 370 g de KCl em 1 L de água, ou 370 g/L. Para expressar em mol/L, 370 g correspondem a 5 mols de KCl para cada litro de água. Ou seja, 5 mol/L.\n1 mol de KCl-------------74,5g\nx -------------------370 g x = 4,96 mols ≈ 5,0 mols ",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2021,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": " Em agosto de 2020 ocorreu uma grande explosão no porto de Beirute, Líbano. Essa explosão aconteceu pelo armazenamento indevido de, aproximadamente, 2800 toneladas de nitrato de amônio (NH4NO3). Esse mesmo composto já foi responsável por outras explosões trágicas como em Oppau (Alemanha, 1921), no Texas (EUA, 1947) e em Tianjin (China, 2015). O nitrato de amônio é uma substância utilizada, principalmente, como fertilizante e pode ser obtido pela reação entre o hidróxido de amônio e o ácido nítrico.\n A) Escreva a equação química da reação entre o ácido nítrico e o hidróxido de amônio para a obtenção de nitrato de amônio\nB) Sob altas temperaturas (> 500°C) ocorre a degradação de forma explosiva do NH4NO3 de acordo com a equação química abaixo. Conhecendo-se o valor de entalpia para essa reação, nas condições padrão (25°C e 1 atm), calcule a quantidade de calor envolvida na explosão de 2800 toneladas de nitrato de amônio.\n2NH4NO3(s) → 2N2(g) + O2(g) + 4H2O(vapor) (ΔH = -50 kcal.mol<sup>-1</sup>)",
+            "imagem_url_enun": null,
+            "resposta_esperada": "A) A) HNO3(aq) + NH4OH(aq) → NH4NO3(aq) + H2O(l)\nB) 1 mol de NH4NO3 ----------80g\n1 tonelada = 1.000.000 g ou 1,0 x10<sup>6</sup> g\nEntão:\n80g --------------------1 mol de NH4NO3\n2800 x 10<sup>6</sup> g---------x x = 35 x 106 mols de NH4NO3\nSe 1 mol de NH4NO3 tem ∆H = -50 kcal.mol<sup>-1</sup>, então:\n1 mol de NH4NO3 ------------- -50 kcal.mol<sup>-1</sup>\n35 x 10<sup>6</sup> mols de NH4NO3 ---------- x x = -1.750 x 10<sup>6</sup> kcal.mol<sup>-1</sup>",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2021,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Dois alcenos isoméricos A e B estão representados a seguir: A respeito deles faça o que se pede:\nA) Qual o tipo de isomeria entre os alcenos A e B?\nB) Desenhe as estruturas químicas dos produtos da reação de ozonólize, na presença de H2O e zinco, do alceno A.\nC) Desenhe a estrutura química do produto da reação do alceno B com HCl em aquecimento.\nD) Desenhe a estrutura química do isômero Z para o composto B.",
+            "imagem_url_enun": "img/q1mod32021quidisc.png",
+            "resposta_esperada": "img/Respq1mod32021quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2021,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Ácidos orgânicos estão presentes em nosso cotidiano, principalmente em nossa alimentação. O vinagre, por exemplo, contém ácido acético a 5% e o ácido propanóico, por sua vez, é o responsável pelo aroma de alguns queijos. O quadro abaixo mostra a constante de acidez para alguns desses ácidos.\nSobre os ácidos apresentados, responda o que se pede.\nA) De acordo com os dados do quadro acima, ordene os ácidos em ordem crescente de força de acidez.\nB) Escreva a equação matemática da constante de equilíbrio para o ácido fórmico.\nC) Em uma solução de 25 mL de ácido acético 0,10 mol.L<sup>-1</sup> foram adicionados 25 mL da solução de NaOH 0,10 mol.L<sup>-1</sup>. O pH final da solução será ácido, neutro ou básico? Justifique sua resposta.",
+            "imagem_url_enun": "img/q2mod32021quidisc.png",
+            "resposta_esperada": "A) Ácido 1-propanóico, ácido 1-butanóico, ácido acético e ácido fórmico.\nB) HCOOH(aq) ⇌ H+ (aq) + HCOO- (aq)\nKeq = [H3O+ ] [HCOO- ] / [HCOOH]\nC) Será básico, pois na hidrólise de CH3COO– será formado íons hidróxido (OH- ) como descrito na equação:\nCH3COO- + H2O ⇌ CH3COOH + OH",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2021,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Existem vários tipos de pilhas e baterias disponíveis comercialmente. Entre eles, a bateria de níquelcádmio, que foi amplamente utilizada em equipamentos eletrônicos por ser uma bateria recarregável e de fácil miniaturização. No entanto, esse tipo de bateria foi substituído por baterias como a “hidreto metálico” e de “íonslítio”, que possuem menos riscos ambientais. Assim como em outras baterias, a níquel-cádmio utiliza uma pasta básica, na qual o KOH é usado como meio eletrolítico entre o ânodo e cátodo. A reação química dentro dessa bateria é:\nCd(s) + 2Ni(OH)3(s) → Cd(OH)2(s) + 2Ni(OH)2(s)\nDADOS: Cd(OH)2(s) 2e- → Cd(s) + 2OH- (aq) Ered = - 0,81V\nNi(OH)3(aq) + e- → Ni(OH)2(s) + OH- (aq) Ered = + 0,49V\nSobre a bateria descrita acima, responda:\nA) Escreva a semi-reação que ocorre no cátodo.\nB) Qual espécie está sofrendo oxidação?\nC) Calcule o valor do potencial dessa bateria",
+            "imagem_url_enun": null,
+            "resposta_esperada": "A) Ni(OH)3(aq) + ē ↔ Ni(OH)2(s) + OH- (aq)\nB) Cd(s)\nC) E = +0,49V - (-0,81V) = + 1,3V",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2021,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O gás hidrogênio pode reagir com o monóxido de nitrogênio para formar o gás nitrogênio e água líquida. A equação de velocidade da reação, em temperatura e pressão constantes, é dada abaixo:\nv = k.[H2].[NO]² , onde k = 3x10<sup>4</sup> L2 .mol<sup>-2</sup>.h<sup>-1</sup>\nSobre essa reação, responda:\nA) Escreva a equação química balanceada entre o H2 e NO.\nB) Qual a velocidade da reação quando temos [NO] = [H2] = 1,0 x 10<sup>-3</sup> mol? Obs.: indique a unidade no valor final.\nC) Admitindo-se que a formação do N2(g) tem uma velocidade média igual a 0,05 mol.L<sup>-1</sup>.min<sup>-1</sup>, qual seria a massa do H2O(l) , em gramas, formada em 1 hora?",
+            "imagem_url_enun": null,
+            "resposta_esperada": "A) 2H2(g) + 2NO(g) → N2(g) + 2H2O(l)\nB) v = k.[H2].[NO]² , onde k = 3x10<sup>4</sup> L² . mol<sup>-2</sup> .h<sup>-1</sup>\nv = 3x10<sup>4</sup> x10<sup>-3</sup> x (10<sup>-3</sup>)²\nv = 3x10<sup>-5</sup> mol.h<sup>-1</sup>\nC)\n 0,05 mol/L-----------1 min. para N2\n1 mol de N2 -------- 2 mols de H2O, então para 2 mols de H2O, têm-se:\n2 x 0,05 mol/L = 0,1 mol/L ------- 1 min.\nx ------- 60min. x = 6,0 mol/L\n1,0 mol de H2O ------- 18 g\n6,0 mols --------------- x x = 108 g",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2021,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O carbonato de cálcio está presente em nossa alimentação como fonte de reposição de cálcio. Esse composto é utilizado nos complexos vitamínicos e também encontrado em fertilizantes. Em determinada temperatura o carbonato de cálcio pode se decompor em:\nCaCO3(s) CaO(s) + CO2(g)\nA) De acordo com o princípio de Le Chatelier indique quais fatores poderiam promover o deslocamento desse equilíbrio químico.\nB) A partir da equação de decomposição, explique o motivo de não considerarmos o CaCO3(s) para explicar o princípio de Le Chatelier.\nC) O que acontece com o equilíbrio químico quando CO2(g) é removido do sistema.\nD) A partir dos valores das entropias-padrão de cada um dos participantes do processo, a 25°C, calcule a variação de entropia (ΔS) da reação e descubra se o valor encontrado indica se ela tende a ser espontânea.",
+            "imagem_url_enun": "img/q5mod32021quidisc.png",
+            "resposta_esperada": "A) Concentração dos reagentes; Temperatura; Pressão.\nB) Porque a mudança na concentração de participantes sólidos não provoca o deslocamento no equilíbrio.\nC) O equilíbrio será deslocado para direita OU o equilíbrio será deslocado no mesmo sentido dele, ou seja, será deslocado para a direita (sentido da formação do produto).\nD)\nΔS = SP –SR\nΔS = (39,8 + 213,6) –(92,9)\nΔS = 253,4 - 92,9 = 160,5\nΔS = + 160,5 cal.K<sup>-1</sup> mol<sup>-1</sup> Tende a ser espontâneo, pois ΔS é positivo.",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2020,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O elemento mais leve da Tabela Periódica é o hidrogênio (Z = 1), e o mais pesado é o oganessônio (Z = 118). O primeiro é também o mais abundante no universo, e o último é produzido artificialmente em laboratórios de colisões de partículas. Enquanto a localização do hidrogênio na tabela periódica é controversa (existem argumentos a favor e contra sua localização tanto no Grupo 1 quanto no Grupo 17), o oganessônio certamente pertence à família dos Gases Nobres, Grupo 18. O próximo elemento mais pesado, aquele com Z = 119, ainda não foi obtido devido a dificuldades tecnológicas. Sobre a localização dos elementos na tabela periódica e suas propriedades, responda ao que se pede:\n A) Em qual Grupo da Tabela Periódica estará localizado o elemento com Z = 119?\nB) A respeito do elemento com Z = 119, utilize a tabela periódica fornecida para prever seu estado físico em temperatura ambiente, seu caráter (metálico ou não metálico) e sua propriedade condutora (condutor ou não condutor de eletricidade).",
+            "imagem_url_enun": null,
+            "resposta_esperada": "A) Grupo 1 ou grupo dos metais alcalinos\nB) Sólido, metálico, condutor",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2020,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Ao temperarmos uma salada com vinagre, estamos usando uma solução aquosa de um ácido fraco para dar um sabor “ácido” ao alimento. Diferentes definições (Arrhenius, Brönsted-Lowry e Lewis) assim como classificações (segundo a presença ou não de oxigênio na fórmula) são usadas para descrever essa importante classe de compostos químicos e suas reações. Oxiácidos são ácidos que contém oxigênio em sua composição, e alguns elementos podem formar mais de um tipo de oxiácido. Um exemplo são os oxiácidos de cloro, HClO4, HClO3, HClO2 e HClO. Sobre esses oxiácidos e suas definições, responda ao que se pede:\nA) Nomeie os quatro oxiácidos citados acima, na ordem em que foram apresentados.\nB) Segundo a teoria de Arrhenius, por que os compostos acima são considerados ácidos?\nC) Como a teoria de Brönsted-Lowry conceitua os compostos acima como ácidos?",
+            "imagem_url_enun": null,
+            "resposta_esperada": "A) Ácido perclórico, ácido clórico, ácido cloroso e ácido hipocloroso.\nB) Porque aumentam a concentração de H<sup>+</sup> em solução.\nC) Os ácidos são as espécies que doam próton, ou H<sup>+</sup>, à base. ",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2020,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Considere as reações termoquímicas de formação de água nos estados sólido (s), líquido (l) e gasoso (g) a partir do oxigênio e hidrogênio gasosos, juntamente com os calores envolvidos (entalpia de formação, ΔHf) em cada processo:\nI. H2 (g) + ½ O2 (g) → H2O (g) ΔHf = –242,9 kJ/mol\nII. H2 (g) + ½ O2 (g) → H2O (l) ΔHf = –286,6 kJ/mol\nIII. H2 (g) + ½ O2 (g) → H2O (s) ΔHf = –292,6 kJ/mol\nA partir desses dados, responda ao que se pede:\nA) Classifique a reação I segundo suas propriedades termoquímicas (endotérmica ou exotérmica).\nB) Calcule o calor de vaporização (ΔHvap) da água líquida, segundo a reação H2O (l) → H2O (g).\nC) Calcule a variação de entalpia na formação de 2 mols de água líquida a partir dos reagentes gasosos.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "A) Exotérmica\nB)\nH2O (l) →H2 (g) + ½ O2 (g) ΔHf = +286,6 kJ/mol\nH2 (g) + ½ O2 (g) → H2O (g) ΔHf = –242,9 kJ/mol\nH2O (l)→ H2O (g) ΔHf = +43,7 kJ/mol\nC) 2×(–286,6) = –573,2 kJ/mol ",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2020,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "As fórmulas moleculares descrevem precisamente a composição química de um composto puro em função do tipo e número de átomos presentes. Apesar disto, diferenças na conectividade entre os átomos da molécula podem resultar em diversos isômeros funcionais. Considere a fórmula molecular C3H6O e desenhe as fórmulas estruturais de: uma cetona, um aldeído, dois éteres e um álcool secundário cíclico. Inclua todos os átomos e ligações nos desenhos.",
+            "imagem_url_enun": null,
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq2mod22020quidisc.png"
+        }
+    },
+    {
+        "ano": 2020,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O hipoclorito de sódio, NaClO é o principal agente ativo da “água sanitária”, amplamente usada como produto de limpeza por ser alvejante e bactericida. O íon hipoclorito, ClO<sup>-</sup>, é a base conjugada de um ácido fraco. Consequentemente ele age como uma base em água:\n ClO<sup>-</sup>(aq) + H2O(l) ⇌ HclO(aq) + OH<sup>-</sup>(aq)\nA constante de dissociação básica para essa reação a 20°C é Kb = 1,0x10<sup>-7</sup>.\nConsiderando as informações acima, responda ao que se pede:\nA) Escreva a expressão matemática da constante de equilíbrio para a reação acima.\nB) Calcule o pH de uma solução de hipoclorito de sódio 0,1 mol L<sup>-1</sup>.\n C) Em meio ácido, o equilíbrio será deslocado em qual sentido (produtos ou reagentes)?",
+            "imagem_url_enun": null,
+            "resposta_esperada": "A) Keq = [HClO]×[OH<sup>-</sup>] / [ClO<sup>-</sup>]\nB) 1,0×10<sup>-7</sup> = x . x / 0,1 → x² = 1,0×10<sup>-8</sup> → x = 1,0×10<sup>-4</sup>\npOH = - log 1,0×10<sup>-4</sup> = 4\npH + pOH = 14 → pH = 10\nC) Produtos, pois em meio ácido haverá o consumo de OH<sup>-</sup>",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2020,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Os alcanos presentes no petróleo bruto são matérias primas para inúmeros produtos usados na indústria e no comércio. Um processo de suma importância é chamado de pirólise ou “craqueamento”, que ocorre na presença de catalisadores a altas temperaturas e pressões. Neste processo, alcanos são convertidos em outros hidrocarbonetos de massa molecular inferior. Considere a pirólise de hexano, C6H14, que resulta na formação de C4H10 e C2H4 e reção entre C2H4 com um mol de H2, formando um novo hidrocarboneto.\nDesenhe as fórmulas estruturais dos quatro hidrocarbonetos citados acima, ilustrando todos os átomos e ligações.",
+            "imagem_url_enun": null,
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq2mod32020quidisc.png"
+        }
+    },
+    {
+        "ano": 2020,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O aspartame é um dipeptídeo com a seguinte estrutura ilustrada abaixo. Seu uso em determinados alimentos como adoçante é limitado pela sua instabilidade perante calor e meio alcalino na presença de umidade, por exemplo na preparação de pães e bolos que empregam “fermento químico” (NaHCO3). Nestas condições, o aspartame é hidrolisado formando diferentes compostos. Considerando as informações acima, responda ao que se pede:\nA) Cite um grupo funcional na molécula de aspartame que seja sujeito a hidrólise.\nB) Qual é o álcool produzido na hidrólise do aspartame?\nC) Qual classe de composto orgânico forma a ligação peptídica no aspartame?",
+            "imagem_url_enun": "img/q3mod32020quidisc.png",
+            "resposta_esperada": "A) Grupo amida ou éster\nB) Metanol\nC) Aminoácidos ou amida",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2020,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Segundo pesquisas desenvolvidas pela Organização Mundial de Saúde:\nA poluição do ar do interior de edifícios ou meios de transporte é o oitavo fator de risco à saúde mais importante, responsável por 2,7% dos casos de doenças no mundo e um fator determinante para saúde e bem-estar de todos. (Adaptado de RBPEC v. 16. n. 3. pp. 521–553 dezembro 2016).\nEntre os poluentes que alteram a qualidade do ar interior está o monóxido de carbono (CO), que resulta da combustão incompleta de gases em aquecedores e fogões a gás. A combustão incompleta do gás butano (C4H10), com formação de monóxido de carbono, é dada pela equação:\n2 C4H10(g) + 9 O2(g) → 8 CO(g) + 10 H2O(l)\nDados experimentais para a velocidade dessa reação (v) foram obtidos a partir dos resultados em diferentes concentrações iniciais de reagentes, em temperatura constante.\nA) Escreva a equação da velocidade para esta reação.\nB) Se houver um consumo de 4,0 mols de butano a cada 20 minutos de reação, qual o número de mols de monóxido de carbono produzido em uma hora?\nC) Quais produtos são formados a partir da queima completa do gás butano?",
+            "imagem_url_enun": "img/q4mod32020quidisc.png",
+            "resposta_esperada": "A) v = k [C4H10] [O2]²\nB) Se 2 mols de butano geram 8 mols de CO, 12 mols de butano geram 48 mols de CO.\nC) CO2 e H2O",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2020,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Foi realizado um experimento para verificar se uma determinada solução aquosa continha íons prata (Ag+ ): em um béquer contendo esta solução, foi introduzido um fio de cobre (Cu°) e, com o passar do tempo, observou-se deposição de prata metálica no fio de cobre e a solução, que era incolor, se tornou azulada. Em relação ao experimento realizado, responda ao que se pede:\nDados: E°(Ag<sup>+</sup>/Ag) = + 0,80 V; E°(Cu<sup>2+</sup>/Cu) = + 0,34 V\nA) Qual a espécie oxidante?\nB) Qual a espécie redutora?\nC) Escreva a equação da semi-reação de oxidação.\nD) Escreva a equação da semi-reação de redução.\nE) Calcule o potencial da reação. ",
+            "imagem_url_enun": null,
+            "resposta_esperada": "A) Ag<sup>+</sup>\nB) Cu°\nC) Cu°(s) → Cu<sup>2+</sup>(aq) + 2e<sup>-</sup>\nD) Ag<sup>+</sup> (aq) + e<sup>-</sup> → Ag(s)\nE) ΔE° = E°redução– E°oxidação = 0,80 - (+ 0,34) = + 0,46V",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2019,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "As reações ácido-base são reações importantes pelas suas inúmeras aplicações. Por exemplo, pessoas que sofrem com acidez estomacal são beneficiadas diariamente por este tipo de reação química. Evidentemente, excessos podem ser prejudiciais. Várias preparações farmacêuticas de antiácidos incluem as bases hidróxido de magnésio e hidróxido de alumínio para diminuir o excesso de ácido clorídrico do estômago. Baseado neste texto, responda:\nA) Dê a fórmula química de todos os compostos inorgânicos citados no texto.\nB) Soluções aquosas destes compostos conduzem eletricidade? Justifique.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "A) Mg(OH)2, Al(OH)3, HCl\nB) Na presença de água os compostos citados conduzirão eletricidade, já que irão se solubilizar e liberar íons em solução",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2019,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Em breve, telas de telefones celulares serão produzidas com um material capaz de se autorregenerar quando riscado ou mesmo quebrado. Considere um composto sólido hipotético, constituído por moléculas altamente polares e que contenha apenas átomos de carbono, nitrogênio e oxigênio. Quando telas produzidas com esse material forem quebradas, as forças intermoleculares serão fortes o suficiente para unir as duas partes: as moléculas do material irão se juntar e colar as duas partes, restaurando seu estado original. Agora responda aos itens abaixo:\nA) Classifique o composto sólido hipotético como iônico ou molecular.\nB) Indique qual força intermolecular seria a responsável pela autorregeneração da tela do telefone celular.\nC) Uma opção para se proteger a tela de vidro comum é o uso de películas adesivas. Os adesivos são compostos por substâncias apolares e podem aderir a praticamente qualquer superfície. Qual força intermolecular mantém a película colada ao vidro?",
+            "imagem_url_enun": null,
+            "resposta_esperada": "A) Composto molecular\nB) Forças dipolo-dipolo, já que são moléculas altamente polares\nC) Como são moléculas apolares a única força intermolecular possível é a força de Van der Waals (ou força de dispersão de London, ou dipolo induzido, ou dipolo induzido – dipolo induzido)",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2019,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "A Nifadipina é um fármaco bloqueador dos canais de cálcio, sendo utilizado principalmente como hipotensor e vasodilatador. Esse fármaco é indicado nos tratamentos de hipertensão arterial e angina e na prevenção de parto prematuro. A estrutura da molécula de nifadipina é fornecida abaixo. Com relação à estrutura da molécula dada:\nA) Dê o nome das funções químicas orgânicas presentes nesta molécula.\nB) Indique o número de carbonos terciários com hibridação sp³.\nC) Dê o número de ligações π existentes.",
+            "imagem_url_enun": "img/q1mod22019quidisc.png",
+            "resposta_esperada": "A) Nitrocomposto, éster e amina (ou amina secundária)\nB) 1 (um)\nC) 7 (sete) ou 8 (se considerar a dupla no grupo nitro)",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2019,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "- Em um laboratório temos quatro béqueres, rotulados de A a D, com 10 mL de diferentes soluções aquosas incolores, conforme a tabela abaixo. Sabendo que a concentração de todas as soluções é a mesma, igual a 0,1 mol/L, responda aos itens que se seguem:\nA) Calcule a quantidade de matéria do reagente que ficou sem reagir ao adicionarmos todo o conteúdo do béquer A no béquer B.\nB) Ao adicionarmos todo o volume da solução do béquer C no béquer D, observa-se a formação de um gás. Calcule a perda de massa (em gramas) do sistema com a liberação do gás.",
+            "imagem_url_enun": "img/q2mod22019quidisc.png",
+            "resposta_esperada": "10mL = 1x10<sup>-2</sup> L\nC=n/V → 0,1mol/L = n/1x10<sup>-2</sup> L\nn= 1x10<sup>-3</sup> mol de HNO3 e de Na2CO3.\n2HNO3(aq) + Na2CO3(aq) → 2NaNO3(aq) + CO2(g) + H2O(l)\nPela estequiometria, 1x10<sup>-3</sup> mol de HNO3 reage com 0,5x10<sup>-3</sup> mol de Na2CO3 e gera 0,5x10<sup>-3</sup> mol de CO2\nn=m/M → 0,5x10<sup>-3</sup> mol = m/44g/mol → m= 0,022g de CO2 liberados.",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2019,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Os conversores catalíticos são a opção mais comum para o controle das emissões de gases poluentes pelos motores de combustão interna dos automóveis, acelerando a conversão dos óxidos de nitrogênio em gases nitrogênio e oxigênio. Uma reação química que pode ser usada para a conversão do óxido nítrico em gases não poluentes é a reação deste gás com hidrogênio, resultando nos gases nitrogênio e água, como mostra a equação química abaixo:\n2 NO(g) + 2 H2(g) → N2(g) + 2 H2O(g)\nA cinética desta reação na temperatura de 1250 °C encontra-se representada na tabela abaixo, a qual indica a influência da concentração dos reagentes na velocidade da reação, obtida através de três experimentos executados sob as mesmas condições.\nConsiderando a lei de velocidade das reações químicas, pede-se\nA) Escreva a equação da velocidade desta reação e calcule a velocidade quando a concentração de NO for de 0,30 mol/L e a concentração de H2 for igual a 0,10 mol/L.\nB) Explique por que ocorre o aumento da velocidade de reação quando aumentamos a concentração dos reagentes.",
+            "imagem_url_enun": "img/q1mod32019quidisc.png",
+            "resposta_esperada": "A)\nv = K [NO]² [H2]¹\n0,025 = k (0,1)² (0,04) → k = 62,5 mol<sup>-2</sup> L² s<sup>-1</sup>\nv = 62,5 (0,30)² (0,10)\nv = 0,56 mol/L∙s\nB) Com o aumento da concentração ocorre o aumento do número de partículas o que acarreta num aumento no número de colisões, fazendo com que a reação proceda mais rapidamente.",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2019,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Os lipídios são compostos com importante valor nutricional por apresentarem considerável valor energético, transportarem ácidos graxos essenciais e vitaminas lipossolúveis, além de serem parcialmente responsáveis pela estrutura de membranas celulares. Observe abaixo a estrutura molecular de três lipídios. Com relação a estes compostos, responda:\nA) Qual é o nome da reação química que ocorre com o ácido oleico na presença de um catalisador, que origina o ácido esteárico?\nB) Que tipo de isomeria ocorre entre o ácido oleico e o ácido elaídico?\nC) Indique cada um dos isômeros.",
+            "imagem_url_enun": "img/q2mod32019quidisc.png",
+            "resposta_esperada": "A) Hidrogenação (ou hidrogenação catalítica)\nB) Isomeria espacial (ou isomeria geométrica, ou isomeria cis-trans)\nC) Isômero cis: ácido oleico; isômero trans: ácido elaídico",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2019,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "- Infecções virais de todos os tipos representam grandes desafios para a saúde pública e constantemente exigem novas estratégias terapêuticas. A viperina, uma proteína inibitória de vírus, inibe a replicação de uma variedade notável de vírus, sendo agora estudada para atuar contra o vírus Zica. A viperina converte o trifosfato de citidina (CTP), uma enzima produzida em organismos vivos, em uma nova molécula, o trifosfato 3'-deoxi-3',4'- didesidro-CTP (ddhCTP), capaz de inibir a replicação viral. A conversão do CTP em ddhCTP está mostrada na reação química abaixo. Em relação a esta reação química, responda:\nA) Qual é o nome da reação que ocorre na transformação do CTP em ddhCTP?\nB) Em reações desse tipo, que ocorrem sem a presença de catalisador, qual é o reagente químico e quais são as condições comumente utilizadas?\nC) Qual é o segundo produto formado?",
+            "imagem_url_enun": "img/q3mod32019quidisc.png",
+            "resposta_esperada": "A) Reação de eliminação ou desidratação.\nB) H2SO4 a 170 °C (ou alta temperatura).\nC) O segundo produto formado é a água (H2O)",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2019,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "– A corrosão de peças metálicas contendo ferro pode ser entendida como um processo eletroquímico por envolver reações de oxirredução. Uma técnica utilizada na proteção contra a corrosão do ferro é a galvanização da peça metálica. Neste processo, a peça metálica é revestida com uma fina camada de zinco metálico, que protegerá da corrosão a peça de interesse. Utilizando os valores fornecidos de potencial padrão de redução, responda aos itens que se seguem:\nA) Por que o zinco é um metal adequado para galvanizar peças metálicas contendo ferro ou ligas de ferro?\nB) Escreva a equação global para o processo eletroquímico responsável pela proteção da peça de ferro pelo zinco.\nC) Calcule o ∆E° para este processo.",
+            "imagem_url_enun": "img/q4mod32019quidisc.png",
+            "resposta_esperada": "A) O zinco é um agente redutor mais forte que o ferro, logo ele oxida antes do ferro no processo de corrosão. Por isso, também é conhecimento como um metal de sacrifício. Além disso, ao revestir a superfície de ferro, além de impedir o contato com a água ou o ar úmido, o zinco atua como um ânodo de uma pilha em relação ao ferro.\nB) Fe<sup>2+</sup> (aq) + Zn(s) → Fe(s) + Zn<sup>2+</sup> (aq)\nC) E° = -0,45-(-0,76) = +0,31V",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2019,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O vinagre utilizado em preparações culinárias é uma solução aquosa diluída de ácido acético (CH3COOH), mas também pode conter outras substâncias, como aromatizantes, pigmentos, entre outras. Considere uma amostra de vinagre na qual a concentração de ácido acético seja igual a 0,02 mol/L. Sabendo que a constante de dissociação do ácido acético é Ka = 1,8 x 10<sup>-5</sup> a 25 °C, e considerando que o ácido acético seja a única fonte de íons H<sup>+</sup> no vinagre, responda às seguintes questões:\nA) Escreva a expressão da constante de equilíbrio para a dissociação do ácido acético e calcule a concentração, em mol/L, de íons H<sup>+</sup> presentes no vinagre examinado.\nB) Por quê, ao indicarmos o valor da constante de ionização ácida, é necessário especificarmos o valor da temperatura?",
+            "imagem_url_enun": null,
+            "resposta_esperada": "A)\nCH3COOH(aq) → CH3COO<sup>-</sup> (aq) + H<sup>+</sup> (aq)\nKa = [CH3COO<sup>-</sup>][H<sup>+</sup>] / [CH3COOH]\n1,8x10<sup>-5</sup> = x2 / 0,02 → x² = 3,6x10<sup>-7</sup>\nB) Pois a reação de ionização de um ácido fraco é uma reação em equilíbrio. Consequentemente a constante de ionização ácida é uma constante de equilíbrio, que muda com a temperatura, de acordo com o princípio de Le Chatelier.",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2018,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Os compostos contendo cloreto estão entre os mais corriqueiros da química inorgânica. Dentre esses compostos encontram-se o cloreto de potássio (A), tricloreto de boro (B), pentacloreto de antimônio (C) e cloreto férrico (D).\nA) Qual a fórmula química de cada cloreto citado no texto acima?\nB) Qual a geometria molecular do composto B?\nC) Escreva a estrutura de Lewis para o composto C.\nD) ) O composto A dissolvido em água constitui uma mistura homogênea ou heterogênea? Justifique sua resposta.",
+            "imagem_url_enun": null,
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq1mod12018quidisc.png"
+        }
+    },
+    {
+        "ano": 2018,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O gás liquefeito de petróleo (GLP) é uma mistura de gases de hidrocarbonetos utilizado como combustível em aplicações de aquecimento e veículos. Os componentes do GLP, embora à temperatura e pressão ambiente sejam gases, são fáceis de condensar (liquefazer). Esta propriedade facilita o transporte dos mesmos através dos gasodutos. Considere uma mistura dos gases etano, propano e butano, com seus respectivos pontos de ebulição e responda as questões a seguir:\nA) Qual dos gases estará na forma líquida a -10 °C e à pressão de 1 atm.\nB) Na temperatura de 5 °C, qual será a composição da mistura gasosa?\nC) Na temperatura de -5 °C, qual será a composição da fase gasosa da mistura?\nD) Abaixando-se gradativamente a temperatura a partir de 25 o C, qual gás irá liquefazer primeiro?",
+            "imagem_url_enun": "img/q2mod12018quidisc.png",
+            "resposta_esperada": "A) Butano\nB) Etano, propano e butano\nC) Etano e propano\nD) Butano",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2018,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "As balinhas de gelatina podem ser facilmente encontradas nos supermercados. Elas contêm grande quantidade do açúcar sacarose (C12H22O11) que, em contato com uma solução de clorato de potássio (KClO3), sofre a seguinte reação:\n8 KClO3(s) + C12H22O11(s) → 8 KCl(s) + 12 CO2(g) + 11 H2O(g)\nA) Calcule a variação de entalpia envolvida na reação entre a sacarose e a solução de clorato de potássio.\nB) A reação acima citada é endotérmica ou exotérmica? Justifique sua resposta.\nC) Além de sacarose, a balinha de gelatina contém 46 mg de sódio em uma porção de 100 g (equivalente a aproximadamente 40 balinhas). A ingestão máxima diária de sódio recomendada é 0,05 mol para adultos. Caso uma pessoa coma 1100 balas, ela ultrapassa a recomendação máxima? Explique, indicando os cálculos.\nD) Para se obter um volume de CO2 igual a 537,6 litros, quantas gramas de sacarose devem ser colocadas em contato com a solução de clorato de potássio nas CNTP (volume molar = 22,4 L)?",
+            "imagem_url_enun": "img/q1mod22018quidisc.png",
+            "resposta_esperada": "A) ∆H°<sub>f</sub> = (8x-436) + (12x-394)+(11x-242)-[(8x315)+(-2.222)] = - 11.176 kJ mol<sup>-1</sup>\nB) A reação é exotérmica, pois o ∆H°<sub>f</sub> é negativo\nC) 1 mol – 23 g de Na 1 mol – 23 g de Na\n0,05 mol – x → x = 1,15 g = 1150 mg de Na OU x – 46 x 10<sup>-3</sup> g Na → x = 2 x 10<sup>-3</sup> mol\n46 mg de Na – 40 balinhas 2 x 10<sup>-3</sup> mol – 40 balinhas\ny – 1100 balinhas → y = 1265 mg de Na→ ULTRAPASSA! y – 1100 balinhas → y = 0,055 mol → ULTRAPASSA!\nD) 1 mol de sacarose – 12 CO2 – 12x22,4 L\nx – 537,6 L → x = 2 mols de sacarose\n2 mols de sacarose = m/342 → m = 684 g de sacarose",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2018,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Os flavonóides são compostos bioativos encontrados em hortaliças, frutas, cereais, chás, café, cacau, vinho e suco de frutas e são responsáveis pelas pigmentações amarela, vermelha e violeta de diversas flores. Um dos benefícios do consumo de frutas e outros vegetais é geralmente atribuído aos flavonóides, uma vez que esta classe de substâncias apresenta diversos efeitos biológicos que incluem, entre outros: ação anti-inflamatória, anticâncer e antioxidante. Dentre os flavonóides, pode-se citar a flavona e flavonol, cujas estruturas estão representadas a seguir. Com base nas estruturas dos compostos, responda:\nA) Qual é a função orgânica oxigenada que está presente EXCLUSIVAMENTE na estrutura da flavona e do flavonol, respectivamente?\nB) Qual é a hibridização dos átomos de carbono numerados de 1 a 4 na molécula da FLAVONOL?\nC) Classifique os átomos de carbono numerados de 1 a 4 em primário, secundário, terciário ou quaternário na molécula da FLAVONA.\nD) Escreva a fórmula molecular do FLAVONOL.",
+            "imagem_url_enun": "img/q2mod22018quidisc.png",
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq2mod22018quidisc.png"
+        }
+    },
+    {
+        "ano": 2018,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O ácido fluorídrico é um ácido fraco, altamente corrosivo, e uma solução aquosa desse ácido pode ser utilizada para corroer o vidro, fazendo gravações. Por esse motivo, em laboratórios, ele é guardado em frascos plásticos.\nA) O ácido fluorídrico é produzido a partir da reação do ácido sulfúrico concentrado com o minério fluorita (CaF2), à temperatura de 250ºC. Escreva a reação balanceada da produção do ácido fluorídrico.\nB) Calcule a constante de dissociação ácida de uma solução de ácido fluorídrico 1 mol L<sup>-1</sup> de pH = 2,0.\nC) Quantos gramas de hidróxido de potássio são necessários para neutralizar 1 L de solução de ácido fluorídrico 1x10-2 mol L<sup>-1</sup>?\nD) Os ácidos bórico (Ka = 6,3x10-<sup>10</sup>), hidrazóico (Ka = 2,5x10<sup>-5</sup>) e hipocloroso (Ka = 3,2x10<sup>-8</sup>) não são capazes de corroer o vidro como o ácido fluorídrico. Coloque esses ácidos em ordem CRESCENTE de força.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "A) H2SO4 + CaF2 \\overset{\\Delta}{\rightarrow} CaSO4 + 2HF\nB) Ka = ([H<sup>+</sup>[F<sup>-</sup>])/([HF]) = (0,01)²/1 = 1x10<sup>-4</sup´>\nC) nKOH = nHF = 0,01 mol = m/56 → m = 0,56 g de KOH\nD) Ácido bórico < Ácido hipocloroso < Ácido hidrázoico",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2018,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "As plantas passam constantemente por diversas situações de estresse, como oscilações drásticas de temperatura, radiação solar, ataque de pragas, dentre outros, e conseguem modular respostas de defesa. O ácido abscísico, ácido jasmônico e seus derivados jasmonatos são reguladores vegetais endógenos que atuam no mecanismo de defesa das plantas e agem como sinalizadores desses estresses. A jasmona é um composto orgânico natural extraído da parte volátil do óleo de jasmim, produzido nas plantas a partir do metabolismo do jasmonato.\nFonte: Rev. de Ciências Agrárias, vol.38, no.3, Lisboa, set. 2015\n\nA respeito desses compostos responda o que se pede:\na) O metil-jasmonato é produzido a partir da esterificação do ácido jasmônico. Qual o reagente orgânico necessário para a produção do metil-jasmonato a partir do ácido jasmônico?\nb) Assinale com um asterisco (*) o(s) átomo(s) de carbono quiral na molécula do ácido abscísico.\nc) Quais as fórmulas estruturais dos compostos orgânicos formados na ozonólise do ácido jasmônico?\nd) A jasmona pode existir em duas formas diferentes de isômeros, cis- e trans-jasmona. O extrato natural contém apenas a forma cis, enquanto o material sintético é muitas vezes uma mistura que contém ambas as formas. Escreva a estrutura química do isômero geométrico trans-jasmona.",
+            "imagem_url_enun": "img/q2mod32018quidisc.png",
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq2mod32018quidisc.png "
+        }
+    },
+    {
+        "ano": 2018,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Prata e mercúrio, podem ser encontrados na natureza na forma de minérios, como por exemplo, os sulfetos Ag2S (argentita) e HgS (cinábrio). Nesse caso, os metais podem ser facilmente obtidos a partir de reações de oxi-redução:\n I. 2 Al(s) + 3 Ag2S(s) → Al2S3(s) + 6 Ag(s)\n II. HgS(s) + O2(g) \\overset{\\Delta}{\rightarrow} Hg(l) + SO2(g)\nCom base nas reações acima responda:\na) Quais são o agente oxidante e o redutor na reação I?\nb) Qual o número de oxidação da prata nos compostos da reação I?\nc) À temperatura ambiente, o SO2 liberado na reação II pode reagir com oxigênio formando SO3 espontaneamente. Explique. Dado: Kc = 10<sup>26</sup>.\nd) O SO2 liberado na reação II pode ser utilizado na indústria em uma das etapas do processo de fabricação de um ácido muito usado. Qual o nome desse ácido? ",
+            "imagem_url_enun": null,
+            "resposta_esperada": "a) Agente oxidante: Ag2S | Agente redutor: Al\nB) Ag2S: +1 | Ag: zero\nc) A constanteKc é bastante elevada favorecendo a formação do SO3\nd) Ácido sulfúrico",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2018,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O cianeto de hidrogênio é um composto extremamente volátil. Tem um forte cheiro de amêndoas amargas, e encontra-se em certas plantas, como a mandioca e no caroço de certas frutas (maçãs, pêssegos e cerejas). Em solução aquosa é conhecido como ácido cianídrico e dissocia-se parcialmente com uma constante de equilíbrio igual a 6,2x10<sup>-10</sup>.\na) Escreva a reação de dissociação do ácido cianídrico.\nb) A adição de hidróxido de sódio no equilíbrio de dissociação do ácido cianídrico do item a aumentará o pH da solução? Explique.\nc) Escreva a constante de equilíbrio da reação de dissociação do ácido cianídrico.\nd) Qual o valor do pKa do ácido cianídrico? Dado: log 6,2 = 0,8. ",
+            "imagem_url_enun": null,
+            "resposta_esperada": "a) HCN ⇌ H<sup>+</sup> + CN<sup>-</sup>  ou HCN + H2O ⇌ H3O<sup>+</sup> + CN<sup>-</sup>\nb) O NaOH irá reagir com os íons H<sup>+</sup> , diminuindo sua concentração, portanto, aumentando o pH\nc) Ka = ([H<sup>+</sup>[CN<sup>-</sup>])/([HCN]) = 6,2x10<sup>-10</sup>\nd) pKa = -log Ka = (0,8-10) = 9,2",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2018,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O metil benzeno é um líquido incolor com um odor característico. Ocorre na forma natural no petróleo e é produzido durante a manufatura da gasolina e de outros combustíveis a partir do petróleo. Ele é a matéria-prima a partir da qual se obtém uma série de substâncias como o fenol, os derivados do benzeno, o cresol, dentre outras. Responda às questões abaixo, considerando a formação dos produtos principais em todas as reações:\na) Quais são as fórmulas estruturais dos produtos da reação entre o metil benzeno e Cl2 na presença de AlCl3?\nb) Forneça as estruturas químicas para os compostos de fórmulas moleculares C7H7Br e C7H6O2\nc) O cresol existe em três formas de estrutura química muito semelhantes entre si, os isômeros: orto-cresol, metacresol e o para-cresol. Qual o tipo de isomeria existente entre as três formas do cresol?\nd) O cresol pode também ser produzido sinteticamente por metilação do fenol. Escreva a equação química que representa a reação de formação do p-cresol.",
+            "imagem_url_enun": "img/q5mod32018quidisc.png",
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq5mod32018quidisc.png"
+        }
+    },
+    {
+        "ano": 2017,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O H2Sé encontrado tanto em solução aquosa (solúvel em água) quanto na forma gasosa, altamente tóxico, inflamável, irritante, além de apresentar odor característico semelhante ao de ovos podres. Com base nas características do H2S responda os itens abaixo.\na) Qual a função inorgânica do H2S?\nb) Escreva a estrutura de Lewis para o H2S. Qual o tipo de geometria molecular existente?\nc) Com basenas forças intermoleculares, justifique o fato do H2Stambém ser encontrado na forma gasosa, a partir da decomposição de matéria orgânica.\nd) O H2S conduz corrente elétricaquando dissolvido em água? Justifique",
+            "imagem_url_enun": null,
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq1mod12017quidisc.png"
+        }
+    },
+    {
+        "ano": 2017,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O dia 5 de novembro de 2015 foi marcado pela maior tragédia ambiental da história do Brasil, devido ao rompimento das barragens de rejeitos, provenientes da extração de minério de ferro na cidade de Mariana/MG. Laudos técnicos preliminares indicam uma possível presença de metais como cromo, manganês, alumínio e ferro no rejeito.\nhttp://www.ibama.gov.br/phocadownload/noticias_ambientais/laudo_tecnico_preliminar.pdf\n\na)Qual o símbolo químico de cada um dos metais descritos acima?\nb) Analise a distribuição eletrônica mostrada abaixo e diga a qual elemento químico presente no rejeito ela pertence?\n1s² 2s² 2p<sup>6</sup> 3s² 3p<sup>6</sup> 3d<sup>5</sup>\nc)O alumínio, normalmente é encontrado na natureza no mineral bauxita na forma de óxido de alumínio. O óxido de alumínio é uma substância iônica ou covalente? Escreva sua fórmula molecular.\nd) O rejeito de mineração representa uma mistura homogênea ou heterogênea?",
+            "imagem_url_enun": null,
+            "resposta_esperada": "a) Cr, Mn, Al, Fe\nb) \nb) Manganês\nc) Iônica | Al2O3\nd) Representa uma mistura heterogênea",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2017,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O hidrogênio cada vez mais tem ganhado atenção na produção de energia. Recentemente, a empresa britânica Intelligent Energy desenvolveu uma tecnologia que pode fazer a bateria de um smartphone durar até uma semana. Nesse protótipo ocorre a reação do oxigênio atmosférico com o hidrogênio armazenado produzindo água e energia.\na) Escreva a equação química da reação descrita acima e calcule a sua variação de entalpia apartir dos dados abaixo.\n img/q1mod22017quidisc.png \nb) Um dos grandes problemas para o uso do gás hidrogênio como combustível é o seu armazenamento. Calcule o volume ocupado por 20 g de hidrogênio nas CNTP.\nc) Atualmente, cerca de 96 % do gás hidrogênio é obtido apartir de combustíveis fósseis, como descrito nas reações abaixo. Essa característica é considerada uma desvantagem para o uso do hidrogênio.Justifique essa afirmativa.\nCarvão:C(s) + H2O() CO(g) + H2(g)\nGás natural: CH4(g)+ H2O() CO(g) + 3 H2(g)",
+            "imagem_url_enun": null,
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq2mod22017quidisc.png"
+        }
+    },
+    {
+        "ano": 2017,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O leite é uma das melhores fontes de cálcio disponível (200 mg de íons Ca<sup>2+</sup> para cada 200 mL de leite). Por isso, este alimento é essencial para a saúde dos ossos e dentes e seu consumo pode prevenir a osteoporose, eventualmente.\na) Qual a concentração de íons cálcioem mol L<sup>-1</sup> presente no leite?\nb) O leite também é uma importante fonte de vitaminas, dentre elas a vitamina A.Qual a hibridação dos átomos de carbono 1, 2, 3 e 4 na estrutura da vitamina A?\n img/q2mod22017quidisc.png \nc) Atualmente a adulteração do leite está muito frequente, principalmente com a adição de formol (metanal), uréia (diaminometanal) e água. Escreva as fórmulas estruturais do formol e da uréia.",
+            "imagem_url_enun": null,
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq2mod22017quidisc.png"
+        }
+    },
+    {
+        "ano": 2017,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O ozônio é um gás que existe em pequenas quantidades (cerca de 10 %) na troposfera, mas em maior concentração na estratosfera, constituindo a camada de ozônio.\na) Na troposfera, o ozônio reage com o óxido de nitrogênio produzindo oxigênio e dióxido de nitrogênio, cuja constante de equilíbrio é 6,0 x 1034. De acordo com as concentrações descritas abaixo,verifique se o sistema está em equilíbrio.\n img/Aq1mod32017quidisc.png \nb) Utilizando os dados para a reação do ozônio com o dióxido de nitrogênio na atmosfera, fornecidos abaixo, determine a expressão da velocidade e calcule o valor da constante de velocidade dessa reação.\n img/Bq1mod32017quidisc.png \nc) Na troposfera,o ozônio também reage com compostos orgânicos insaturados prejudicando a qualidade de vida dos organismos vivos. Escreva a reação de ozonólisedo 2-metilbuteno na troposfera.",
+            "imagem_url_enun": null,
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq1mod32017quidisc.png"
+        }
+    },
+    {
+        "ano": 2017,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O alumínio é um excelente agente redutor e, portanto, não pode ser utilizado na confecção de tanques para transporte e armazenagem de ácido clorídrico. Por outro lado, pode ser usado no transporte de ácido nítrico, uma vez que o alumínio é rapidamente oxidado formando uma camada protetora de óxido de alumínio que protege o metal de outros ataques.\n img/q2mod32017quidisc.png \n a) Por que o alumínio não pode ser usado no transporte de ácido clorídrico? Escreva a reação química para justificar sua resposta.\nb) Com base nos potenciais padrão discuta a possibilidade de substituição do alumínio pelo cobre no transporte de ácido clorídrico.\nc) O cobre pode ser usado no transporte de ácido nítrico? Escreva a reação química para justificar sua resposta.\nd) O uso de tanques de cobre estão sujeitos ao processo de corrosão pelo oxigênio do ar formando uma camada esverdeada (mistura de óxidos e hidróxidos de cobre). Calcule o potencial padrão que representa este processo.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "a) O alumínio é oxidado pelo ácido clorídrico.\n6 H<sup>+</sup> (aq) + 2 Al(s)⇌3 H2(g)+ 2 Al<sup>3+</sup> (aq) ou6HCl(aq) + 2 Al(s)⇌3 H2(g)+ 2 AlCl3(aq)\nb) O cobre apresenta um potencial padrão de redução maior que o do ácido clorídrico, desta forma ele não é oxidado pelo ácido, já o alumínio apresenta um potencial padrão de redução menor que o do ácido clorídrico, sendo portanto oxidado pelo mesmo. Assim, o cobre pode substituir o alumínio no transporte de ácido clorídrico.\nc) O cobre não pode ser usado para transportar o ácido nítrico, pois ele é oxidado pelo ácido.4 H<sup>+</sup> (aq) + 2 NO3<sup>-</sup> (aq) + Cu(s) ⇌ 2 NO2(g) + 2 H2O(l) + Cu<sup>2+</sup> (aq)\nd) Cu<sup>2+</sup> (aq) + 2 e<sup>-</sup> ⇌ Cu(s)E0 = + 0,34 V\nO2(g) + 2 H2O(l) + 4 e<sup>-</sup> ⇌ 4 OH<sup>-</sup> (aq) E<sup>0</sup> = + 0,40 V\nE<sup>0</sup> = 0,40 – 0,34 = 0,06 V\nComo a diferença de potencial da reação é positiva, a reação de corrosão do cobre pelo oxigênio do ar é espontânea.",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2017,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Os ácidos abaixo estão presentes em alimentos de forma artificial e natural. A indústria alimentícia utiliza ácido málico na composição de geleias, marmeladas e bebidas de frutas. O ácido tartárico é utilizado pela indústria de alimentos na produção de fermentos. Já o ácido fumárico é empregado como agente flavorizante para dar sabor a sobremesas e proporcionar ação antioxidante.\na) Escreva a reação de oxidação do ácido tartárico em meio de KMnO4.\n img/q3mod32017quidisc.png \nb) Quaisdos ácidos representados acima apresentam b.1) isomeria geométrica e b.2) isomeria óptica?\nO ácido maleico, usado na produção de resinas sintéticas, é um isômero do ácido fumárico e pode ser produzido artificialmente a partir do ácido málico. Escreva a reação de produção do ácido maleico a partir do ácido málico\n img/Cq3mod32017quidisc.png \nd) d) Escreva a reação de hidrogenação do ácido fumárico na presença de níquel.",
+            "imagem_url_enun": null,
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq3mod32017quidisc.png"
+        }
+    },
+    {
+        "ano": 2017,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O esmalte do dente é constituído de um material muito pouco solúvel em água e cujo principal constituinte é a hidroxiapatita (Ca5(PO4)3OH). Na presença de água, a hidroxiapatita estabelece o seguinte equilíbrio químico:\nCa5(PO4)3OH(s)⇌5Ca<sup>2+</sup> (aq) + 3PO4<sup>3-</sup> (aq) + OH<sup>-</sup> (aq)\na) A deterioração dos dentes é agravada com a doença bulimia, que faz com que o HCl existente no estômago seja eliminado junto com o vômito. De acordo com o equilíbrio acima, como a bulimia agrava a deterioração dos dentes?\nb) Na placa bacteriana, as bactérias metabolizam o açúcar, transformando-os em ácidos orgânicos que contribui para a formação de cáries. Dentre os principais ácidos formados na placa estão os ácidos: acético (Ka = 1,58 x 10<sup>-5</sup> ) elático (Ka = 1,58 x 10<sup>-4</sup> ). Qual destes ácidos é o mais fraco?\nc) O pH normal da boca é 7,0. A diminuição do pH na boca pode ser causada diretamente pelo consumo de frutas ácidas e bebidas, podendo chegar a um pH 6,0 em poucos minutos. Calcule as concentrações de íons hidrogênio antes e depois da ingestão de frutas ácidas e bebidas.\nd) Antigamente, o processo de obturação dos dentes era conhecido como amálgama. Se o amálgama (Sn8Hg) fizer contato com uma coroa de ouro de um dente vizinho uma reação de óxido-redução, na presença de oxigênio, pode ocorrer:\nSn<sup>2+</sup> (aq) + Hg(s) + 16e<sup>-</sup> ⇌ Sn8Hg(s) E<sup>0</sup> = - 0,13 V\n4 O2(g) + 16 H<sup>+</sup> (aq) + 16e<sup>-</sup> ⇌ 8 H2O(l) E<sup>0</sup> = + 1,23 V\nQual é o agente oxidante e o agente redutor deste processo?",
+            "imagem_url_enun": null,
+            "resposta_esperada": "a) A bulimia agrava a deterioração dos dentes, pois ao ser eliminado o HCl reage com o OH- deslocando o equilíbrio no sentido dos produtos e consequentemente solubilizando a hidroxiapatita\nb) O ácido acético é mais fraco que o ácido lático, pois ele apresenta uma constante de dissociação menor\nc) Antes: 10<sup>-7</sup> mol L<sup>-1</sup> | Depois: 10<sup>-6</sup> mol L<sup>-1</sup>\nd) Agente oxidante: O2 | Agente redutor: Sn8Hg",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2017,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Existe uma nítida diferença de sabor dos peixes provenientes de água doce quando comparados aos peixes de água salgada. Esta diferença de sabor, marinado ou iodado dos peixes de água salgada, especialmente os criados em ambientes marinhos, se dá devido à presença dos compostos aromáticos 2-bromofenol e o 4- bromofenol presentes na dieta.\nFonte:http://quimicanova.sbq.org.br/detalhe_artigo.asp?id=1732\na) Escreva a equação química para a formação do 2-bromofenol e do 4-bromofenol a partir do fenol e Br2, na presença de FeBr3.\nb) O fenol é matéria-prima para a produção de outros fenóis usados como antissépticos, fungicidas e desinfetantes.Complete a sequência de reações que mostra a produção de 2-metilfenol e 4-metilfenol, indicando as substâncias A e B. Discuta a função de B na reação.\n img/q5mod32017quidisc.png \nc) O fenol também pode ser usado na produção do4-nitrofenol. Este composto pode ser usado como indicador de pH, pois ele é amarelo em pH acima de 7 e incolor em pH abaixo de 6. Qual a cor do indicador na presença da água dos reservatórios 1 e 2 usados na piscicultura?",
+            "imagem_url_enun": null,
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq5mod32017quidisc.png"
+        }
+    },
+    {
+        "ano": 2016,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O nitinol é uma liga metálica incomum, formada pelos metais Ni e Ti, sua principal característica é ser uma liga com memória. Essa liga pode ser suficientemente modificada por ação de alguma força externa e retornar a sua estrutura original em uma determinada faixa de temperatura, conforme esquema a seguir.\na) Escreva o nome e a distribuição eletrônica dos metais presentes no nitinol.\nb) Dentre os metais usados na produção do nitinol, qual possui maior raio atômico? E qual possui maior potencial de ionização?\nc) Uma das formas de produção do metal Ni de alta pureza para a confecção de ligas metálicas é a extração de minerais sulfetados, os quais possui o NiS. Qual o nome do composto NiS? Qual é o tipo de ligação química que ocorre entre seus átomos?\nd) Cite dyas características comuns aos metais.",
+            "imagem_url_enun": "img/q1mod12016quidisc.png",
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq1mod12016quidisc.png"
+        }
+    },
+    {
+        "ano": 2016,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Dois estudantes do ensino médio estavam brincando de forca durante a aula de Química. O professor resolveu dar-lhes uma charada baseada no assunto da aula: Propriedades periódicas¹\nSiga as dicas e veja se consegue matar a charada!\n\nDicas:\nI. É um nome próprio feminino com três sílabas\nII. A primeira sílaba correspondente a um elemento que possui 7 elétrons de valência e está no quinto período da Tabela Periódica.\nIII. A segunda sílaba correspondente ao elemento que possui 10 prótons, 10 elétrons e 10 nêutrons.\na) Você matou a charada! Então, qual é o nome?\nb) Sabe-se que o elemento correspondente à primeira sílaba do nome formado acima sublima em condições ambientais formando uma substância simples (gás diatômico) de coloração violeto e odor irritante. Represente a estrutura de Lewis para o gás diatômico de formado.\nc) Qual é a fórmula dos compostos formados entre o elemento correspondente a dica 2 da charada e os elementos químicos potássio e hidrogênio? De acordo com os dados que constam na tabela abaixo, qual o estado físico destes compostosa a 25°C?\nd) Qual a família correspondente a terceira sílaba da charada? Cite uma característica deta família?",
+            "imagem_url_enun": "img/q2mod12016quidisc.png",
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq2mod12016quidisc.png "
+        }
+    },
+    {
+        "ano": 2016,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "A fotoproteção previne efeitos danosos da radiação uiravioleta (UV). As principais formas de fotoproteção Incluem os protetores solares com filtros inorgânicos e orgânicos. Os fios orgânicos são moléculas capazes de absorver radiação UVA é UVB é tansfomáias em radiações energéticas inofensivas so ser humano O ácido 4-aminobenzóico (PABA) e a Benzolenona-3 (Bz:3) são exemplos de fitros orgânicos ublizados em protetores solares e cosméticos.\n(a) Escreva a formula estrutural do PABA e calcule sua massa molecular,\nb) De acordo com a estrutura da Bz-3 agresentada abaixo, de o nome das funções orgânicas oxigenadas e o número de carbono com hibridação sp² presentes nesta molécula.\nc) Sabendo-se que a concentração de Benzofenona-3 presente em um protetor solar é de 0.5 % (mim), calcule a massa de Benzofenona-3 presente em um frasco de 200 mL desse protetor. Obs: A densidade do protetor solar é 1,0 g/cm³",
+            "imagem_url_enun": null,
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq1mod22016quidisc.png"
+        }
+    },
+    {
+        "ano": 2016,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Uma das consequências de certos exageros na alimentação é a chamada azia. As membranas das células estomacais permitem a passagem de águe e de outras moléculas neutras e bloqueiam, em geral, a passagemde alguns íons como H<sup>+</sup>, Na<sup>+</sup>, K<sup>+</sup> e Cl<sup>-</sup>. O excesso de íons H<sup>+</sup> pode causar dor, inchaço, e consequentemente, a azia.\na) Qual o tratamento mais adequado para diminuir a sensação de azia?\nb) Um dos antiácidos comerciais mais comuns é o leite de magnésia (hidróxido de magnésio). Escreva a equação química balanceada entre o ácido clorídirico presente no estômago e este agente antiácido.\nc) A azia pode ser tratada também com o bicarbonato de sódio, que é uma base fraca. Nesse caso, ao reagir com o ácido clorídrico do estômago, ocorre a liberação de um gás manifestado através de uma eructação (arroto). Escreva a equação química correspondente e indique o nome do gás que está sendo liberado.\nd) Baseado no item anterior, qual o volume de gás liberado (em mL) nas CNTP, sabendo-se que 0,42 g de bicarbonato de sódio reagiram completamente com o ácido clorídrico presente no suco gástrico?",
+            "imagem_url_enun": null,
+            "resposta_esperada": "",
+            "imagem_url_resp": "img/Respq2mod22016quidisc.png"
+        }
+    },
+    {
+        "ano": 2016,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "As pilhas alcalinas tem a base de funcionamento muito parecida com a pilha seca de Leclanché (pilha comum), uma vez que ambas usam o zinco metálico e o MnO<sub>2</sub> como polos. A grande diferença entre elas é o fato de que na pilha comum tem-se a presença de íon amônio, enquanto na pilha alcalina o íon amômio é substituído pelo íon hidrôxido.\na) Escreva a reação global e calcule a diferença de potencial para a pilha alcalina.\nb) A pilha alcalina tem uma durabilidade de 5 a 8 vezes maior que a pilha comum; essa característica está relacionada ao fato de que na pilha comum ocorre a produção de amônia. Escreva a reação global da pilha comum mostrando a formação da amônia.\nc) Indique a espécia que atua como agente redutor nas duas pilhas.\nd) Qual a direção do fluxo de elétrons na pilha alcalina e na pilha comum?",
+            "imagem_url_enun": "img/q1mod32016quidisc.png",
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq1mod32016quidisc.png"
+        }
+    },
+    {
+        "ano": 2016,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O ácido lático (ácido 2-hidroxipropanóico) é um ácido orgânico de fórmula C<sub>3</sub>H<sub>6</sub>O<sub>3</sub>, de cor cristalina, sabor suave e ligeiramente salino e solúvel em água. O organismo humano produz ácido lático em quantidades expressivas durante a realização de exercícios físicos, pois sua oxidação é uma grande fonte de energia. Entretanto, um excesso desta substância ocasiona muito cansaço e dores musculares.\na) Quantos carbonos quirais o ácido lático possui? Qual o tipo de isomeria está associada a essa característica?\nb) No ciclo de Krebs o ácido lático é oxidado (oxidação do álcool), na presença de oxigênio, formando ácido pirúvico. Após esta etapa, o ácido pirúvio é oxidado pelo oxigênio formando CO<sub<2</sub> e H<sub>2</sub>O no sistema de transporte de elétrons. Escreva as reações químicas que mostram as duas etapas citadas.\nc) O ácido lático acumulado no sangue e nos músculos durante a realização de exercícios físicos é removido durante o período de recuperação. A velocidade desta remoção depende do fato de estar em repouso ou de realizar exercícios leves durante a recuperação. Sabendo-se que no repouso o fluxo de oxigênio no organismo é de aproximadamente 0,39 L/min, e na prática de exercícios leves esse fluxo chega a 2,5 L/min, em qual das duas situações o processo de oxidação do ácido lático é mais eficiente? Por quê?\nd) Sabendo que a concentração de íons H<sup>+</sup> de uma solução aquosa de ácido lático é 5 x 10<sup>-5</sup> mol/L, qual a concentração de OH<sup>-</sup>, em mol/L, nessa solução? Dado: K<sub>w</sub> = 1 x 10<sup>-14</sup>",
+            "imagem_url_enun": null,
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq2mod32016quidisc.png"
+        }
+    },
+    {
+        "ano": 2016,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O ácido acetil salicílico (AAS) e o salicilato de metila são fármacos muito consumidos no mundo. O primeiro possui ação analgésica, antitérmica, anticoagulante entre outras, enquando o segundo possui ação analgésica. Estes dois princípios ativos podem ser preparados facilmente em laboratório através de uma reação conhecida como esterificação de Fisher\n img/q3mod32016quidisc.png \na) Escreva a reação química de esterificação em meio ácido 2-hidroxibenzóico com metanol. Qual dos dois fármacos citados acima foi produzido nesta síntese?\nb) Escreva a reação de hidrólise em meio ácido do AAS.\nc) Indique uma forma na qual o equilíbrio pode ser deslocado para aumentar o rendimento da síntese do produto formado no item a.\nd) Escreva a reação de dissociação do AAS em água.",
+            "imagem_url_enun": null,
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq3mod32016quidisc.png"
+        }
+    },
+    {
+        "ano": 2016,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Na indústria química, uma das etapas de produção do ácido sulfúrico é a formação do trióxido de enxofre por meio da reação de combustão do dióxido de enxofre pelo catalisada pelo dióxido de nitrogênio, conforme esquema abaixo\n img/q4mod32016quidisc.png \na) O que acontece, quimicamente, com o dióxido de nitrogênio no processo de formação do SO<sub>3</sub>?\nb) Qual a diferença fundamental entre a reação catalisada e a não catalisada?\nc) A velocidade de uma reação global é dependente da velocidade da etapa lenta. Escreva a expressão da lei de velocidade para a reação global de formação do trióxido de enxofre\nd) Após a reação de produção de SO<sub>3(g)</sub> atingir o equilíbrio, represente qualitativamente no gráfico com a variação da concentração do SO<sub>3</sub> com o aumento da temperatura em um experimento no qual a pressão total dos gases seja mantida constante.",
+            "imagem_url_enun": null,
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq4mod32016quidisc.png "
+        }
+    },
+    {
+        "ano": 2016,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O Ca<sup>+2</sup> é o cátion mais comum em rios e lagos. Ele surge a partir da dissolução do mineral calcita (CaCO<sub>3</sub>) pela ação do CO<sub>2</sub> atmosférico solúvel em H<sub>2</sub<I formando bicabornato e Ca<sup>+2</sup>.\na) Escreva a equação química que representa o processo descrito acima.\nb) A queima de combustíveis fósseis é um dos grandes emissores de dióxido de carbono na atmosfera, além de outros poluentes. Escreva as reação de combustão balanceadas do diesel e da gasolina, supondo que o diesel é composto por uma mistura de hidrocarbonetos de fórmula C<sub>12</sub>H<sub>26</sub>, enquanto a gasolina é composto por C<sub>8</sub>H<sub>18</sub>.\nc) Sabendo-se que, após horas, a reação de combustão da gasolina produziu 48 mols de CO<sub>2</sub>, calcule a velocidade média da reação (em mols de gasolina consumida por hora)\nd) Os recifes de coral são formados principalmente por CaCO<sub>3</sub> e constituem o habitat de diversas espécies aquáticas. O que deve ocorrer com o equilíbrio químico no item a e consequentemente aos recifes de coral caso ocorra um aumento da queima de combustíveis fósseis?",
+            "imagem_url_enun": null,
+            "resposta_esperada": "a) CaCO<sub>3(s)</sub> + CO<sub>2(g)</sub> + H<sub>2</sub>O<sub>(l)</sub> ⇌ Ca<sup>+2</sup><sub>(aq)</sup> + 2HCO<sub>3</sub><sup>-</sup>(aq)\nb)\nDiesel: C12H26 + 37/2 O2  12CO2 + 13H2O ou 2C12H26 + 37O2  24CO2 + 26H20\nGasolina: C8H18 + 25/2 O2  8CO2 + 9H2O ou 2C8H8 + 25O2  16CO2 + 18H2O\nc) 6C8H18  48 CO2 + 54H2O (EM 2 HORAS)\nVm = (nº de mols)/t  (6 mols C8H18)/2h  Vm = (3 mols C8H18)/h\nd) O aumento da queima de combustíveis fósseis leva à um aumento de CO<sub>2</sub> dissolvido em água, deslocando o equilívrio para a direita, causando a dissolução do CaCO<sub>3</sub> e consequente degradação dos corais",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2015,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Considere as substâncias puras KOH e HNO3 e suas propriedades apresentadas na Tabela 1 e responda aos itens abaixo.\nTabela 1: Propriedades físicas e químicas das substâncias puras KOH e HNO3\n img/q1mod12015quidisc.png \nFonte: CRC Handbook of Chemistry and Physics, 95th Edition, William M. Haynes (ed.) 2014-2015.\n\na) Escreva o nome das substâncias e seus estados físicos a 25 °C.\nb) Quais são os tipos de ligação química existentes nas duas substâncias puras?\nc) Escreva a fórmula estrutural do HNO3.\nd) Explique por que as duas substâncias puras não conduzem corrente elétrica.",
+            "imagem_url_enun": null,
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq1mod12015quidisc.png"
+        }
+    },
+    {
+        "ano": 2015,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O ar atmosférico é constituído, principalmente, de 78% de gás nitrogênio e 21% de gás oxigênio. O ar que respiramos contém também material sólido particulado conhecido como poeira. Responda aos itens abaixo.\na) Cite uma técnica para “limpar” o ar atmosférico, ou seja, separar a poeira.\nb) Depois de “limpo”, o ar é classificado como uma substância pura? Justifique a sua resposta.\nc) Os dois principais componentes do ar podem ser separados através de um sistema como o representado abaixo.\n img/Cq2mod12015quidisc.png\nSabendo-se que os pontos de ebulição do nitrogênio e do oxigênio são –196 oC e –183 oC, respectivamente, identifique os componentes que são recolhidos como gás e líquido e escreva suas fórmulas moleculares.\nd) Escreva o nome do método de separação descrito no item (c).",
+            "imagem_url_enun": null,
+            "resposta_esperada": "a) Filtração\nb) Não, Depois de separada a poeira, o ar continua sendo uma mistura de gases (N2 e O2)\nc) Gás: Nitrogênio | Fórmula: N2\nLíquido: Oxigênio | Fórmula: O2\nd) Destilação fracionada ou destilação",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2015,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "É comum a adição de metabissulfito de sódio (Na2S2O5) como substância conservante em vinhos. Essa prática é amparada pela legislação e tem procedimentos regulamentados. Um dos problemas com esse procedimento é que a decomposição desse conservante gera SO2, que pode causar reações adversas nos consumidores. Responda aos itens abaixo.\na) Escreva a equação química balanceada para decomposição térmica do metabissulfito de sódio em sulfito de sódio e dióxido de enxofre. Dado: íon sulfito = SO3<sup>2-</sup>\nb) Uma maneira de se determinar a concentração de dióxido de enxofre em vinhos é através da reação com iodo em meio aquoso, que gera ácido iodídrico e ácido sulfúrico. Escreva a equação química balanceada que representa a reação entre SO2 e I2 em água.\nc) A concentração máxima permitida para o SO2 em vinhos é de 260 ppm. Se para reagir completamente com 5 mL de uma amostra de vinho forem utilizados 13,5 mL de uma solução 0,001 mol L<sup>-1</sup> de iodo, calcule a concentração de SO2 no vinho. Esse vinho tem concentração de SO2 dentro do limite imposto pela legislação? Justifique a sua resposta.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "a) Na2S2O5 (s) \\overset{\\Delta}{\rightarrow} Na2SO3 (s) + SO2 (g)\nI2 (aq) + SO2 (aq) + 2 H2O (l) → 2 HI(aq) + H2SO4 (aq)\nC1V1 = C2V2\nC1 x 5 = (1,0 x 10<sup>-3</sup>) (13,5)\nC1 = 2,7 x 10<sup>-3</sup> mol L<sup>-1</sup>\n\n1 mol de SO2 - 64 g de SO2\n2,7 x 10-<sup>3</sup> mol de SO2 – x\nx = 0,173 g de SO2 em 1 Litro de vinho\n\nx= 173 mg L<sup>-1</sup> = 173 ppm\nSim. Porque a concentração de SO2 encontrada no vinho (173 ppm) é menor do que a concentração máxima permitida (260 ppm).",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2015,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "A Quercetina, cuja estrutura química está representada abaixo, está associada com processos de inibição de inflamação óssea. Com relação à sua fórmula estrutural bem como a de seu análogo estrutural A, responda aos itens a seguir.\n img/q2mod22015quidisc.png \na) Dê os nomes das funções químicas oxigenadas da estrutura da Quercetina.\nb) Represente a fórmula molecular da Quercetina.\nc) Classifique todos os carbonos numerados como primário, secundário, terciário ou quaternário.\nd) Informe a hibridização dos átomos de carbono numerados na estrutura.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "a) Cetona; éter; fenol; álcool (ou enol)\nb) C15H10O7\nc) C1: secundário | C2: secundário | C3: secundário | C4: quaternário | C5: primário\nd) C1: sp² | C2: sp² | C4: sp³ | C5: sp",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2015,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": " O alumínio metálico pode ser produzido a partir do mineral bauxita (mistura de óxidos de alumínio, ferro e silício). Tratase de um processo de produção caro, pois exige muita energia elétrica. A última etapa do processo envolve a eletrólise de uma mistura de alumina (Al2O3) e criolita (Na3AlF6) na temperatura de 1000 oC. As paredes do recipiente que ficam em contato com a mistura funcionam como cátodo, e os cilindros constituídos de grafite, mergulhados na mistura, funcionam como ânodo. Dados:\n img/q1mod32015quidisc.png \n Responda ao que se pede.\na) Explicite qual semirreação ocorre no ânodo e qual ocorre no cátodo\nb) Escreva a equação equilibrada que representa a reação global e calcule a variação de potencial do processo.\nc) O processo é espontâneo? Justifique a sua resposta.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "a) Reação do ânodo: 2 O<sup>2-</sup><sub>(l)</sub> → O2<sub>(g)</sub> + 4<sup>e-</sup>\nReação do cátodo: Al<sup>3+</sup><sub>(l)</sub> + 3e<sup>-</sup> → Al<sub>(l)</sub>\nb) Equação global: 4 Al<sup>3+</sup><sub>(l)</sub> + 6 O2<sup>-</sup><sub>(l)</sub> → 3 O2<sub>(g)</sub> + Al(l)\nCálculo: Δ<sup>0</sup> = – 1,66 – 1,23 V\n Δ<sup>0</sup> = -2,89 V\nc) Não. Pois se trata de uma eletrólise que é um processo com variação de potencial negativa.",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2015,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Alguns óxidos gasosos de nitrogênio e carbono são poluentes atmosféricos. A reação de NO2 com monóxido de carbono gera NO e dióxido de carbono. Em um estudo cinético dessa reação, foram obtidos os seguintes dados para a velocidade da reação química em função das concentrações iniciais dos reagentes:\n img/q2mod32015quidisc.png \na) Escreva a equação química balanceada que representa essa reação.\nb) Qual é a lei de velocidade para essa reação química?\nc) Qual é o valor da constante de velocidade dessa reação a 350 K? Apresente os cálculos.\nd) A temperatura da reação na última linha da tabela acima é maior, menor ou igual às outras três temperaturas de reação? Justifique sua resposta.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "a) NO2 + CO → NO + CO2\nb) v = k[NO<sub>2</sub>]²\nc) k = v/([NO<sub>2</sub>]²) = (1,0 x 10<sup>-5</sup>)/(0,002²) = 2,5\nd) A temperatura é maior. Uma vez que nesse ponto as concentrações de NO2 e CO são iguais e houve um aumento na velocidade de reação, ocorreu um aumento na temperatura da reação.",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2015,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "A isomerização do cis-2-buteno a trans-2-buteno no estado gasoso pode ser realizada na presença do catalisador Cr2O3/alumina, como apresentado na equação química abaixo:\n img/q3mod32015quidisc.png\nEssa reação química tem constante de equilíbrio igual a 1,41 a 709 K (Fonte: Happel, Hnatov, Mezaki, Journal of Chemical and Engineering Data, 1971, 16, 206-209).\n\na) Se 5,0 g de cis-2-buteno forem adicionados a um recipiente de 1,0 L e aquecidos a 709 K na presença de Cr2O3/alumina, calcule a concentração de cis-2-buteno e trans-2-buteno quando o equilíbrio químico for atingido.\nb) Depois que o equilíbrio foi atingido, mais 1,0 g de trans-2-buteno foi adicionado ao recipiente da reação. Calcule a nova concentração do cis-2-buteno no equilíbrio.\nc) Sem fazer cálculos, prediga o que deve ocorrer com a concentração das substâncias no item (a) se o volume do recipiente for diminuído pela metade, sem a adição de nenhuma das espécies.",
+            "imagem_url_enun": null,
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq3mod32015quidisc.png"
+        }
+    },
+    {
+        "ano": 2015,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Um composto análogo do BMS-817399, representado pela estrutura química abaixo, vem sendo reconhecido como candidato para tratamento de artrite.\n img/q4mod32015quidisc.png \nConsiderando a estrutura química e as possíveis reações desse composto, responda às questões a seguir\na) A reação química do composto com uma solução aquosa ácida produz, preferencialmente, uma mistura de isômeros geométricos. Escreva o nome da reação química e a estrutura de um dos isômeros.\nb) Forneça a estrutura química do produto de maior massa molar, obtido pela reação da mistura de compostos gerados no item acima com o ozônio.\nc) Uma das etapas de síntese do análogo do BMS-817399 é a reação de cloração do anel aromático. Considerando esse tipo de reação orgânica, represente a equação química para a cloração do tolueno (metilbenzeno). Informe as posições preferenciais para a cloração e justifique a sua resposta.",
+            "imagem_url_enun": null,
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq4mod32015quidisc.png"
+        }
+    },
+    {
+        "ano": 2015,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O Efavirenz e o Clopidrogel, cujas estruturas estão representadas a seguir, são fármacos de alta rentabilidade da indústria farmacêutica utilizados no tratamento de doenças virais e neurodegenerativas, respectivamente.\n img/q5mod32015quidisc.png \nResponda às questões abaixo.\na) Escreva a equação química para a reação do Clopidrogel com uma solução aquosa de NaOH.\nb) O composto Clopidrogel apresenta qual tipo de isomeria? Represente a estrutura química de um dos isômeros.\nc) O Clopidrogel apresenta o metabólito A, cuja estrutura química está representada abaixo. Dê o produto principal da reação entre o metabólito A e o hidreto de lítio e alumínio (LiAlH4).\nd) Qual é a estrutura química do produto principal formado pela reação de 1 mol de Efavirenz na presença de 2 moles de Br2.",
+            "imagem_url_enun": null,
+            "resposta_esperada": null,
+            "imagem_url_resp": "img/Respq5mod32015quidisc.png"
+        }
+    },
+    {
+        "ano": 2009,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Os metais alcalinos são extremamente reativos e podem ser identificados pelo “teste da chama”, que consiste em aquecer uma amostra contendo o metal e observar a coloração emitida. Por exemplo, o lítio emite luz vermelha quando aquecido, o sódio emite luz amarela e o potássio emite luz violeta.\na) De acordo com o modelo de Rutherford-Bohr, a que se deve a emissão de luz pelos metais alcalinos?\nb) Escreva a configuração eletrônica do cátion formado pelo elemento que emite luz amarela.\nc) Dentre os elementos citados, qual possui maior raio atômico? E qual possui maior potencial de ionização?\nd) Os metais alcalinos reagem com a água produzindo seus respectivos hidróxidos e gás hidrogênio. Considerando um dos produtos formados, qual seria uma maneira simples de verificar experimentalmente a ocorrência dessa reação?",
+            "imagem_url_enun": null,
+            "resposta_esperada": "a) Ao receber energia, elétrons de camadas internas se transferem para camadas mais externas (salto quântico) absorvendo esta energia. Ao retornarem para as camadas originais liberam energia na forma de luz.\nb) Na+ :1s 2s 2p\nc) Elemento de maior raio atômico: Potássio (K) | Elemento de maior potencial de ionização: Lítio (Li)\nd) Hidróxidos: adição de um indicador ácido-base ou Gás Hidrogênio: formação de bolhas ou aproximação de uma chama que provocará uma pequena explosão.",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2009,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "“Na natureza nada se cria, nada se perde, mas tudo se transforma”. Essa frase de Lavoisier é bastante conhecida em ciência. As transformações químicas e físicas que ocorrem na natureza produzem os ciclos de alguns elementos como oxigênio, carbono e também o ciclo da água, que permitem a manutenção do planeta.\nI - Com base no desenho, identifique os processos de mudança de estado físico, numerados de 1 a 4, que ocorrem no ciclo da água na Terra.\nII - O que ocorre numa transformação química? Cite um exemplo.\nIII - Se o ciclo da água permite a recuperação da mesma, por que são constantes as preocupações dos seres humanos com a diminuição dos recursos hídricos no planeta?\nIV - O ciclo da água também possibilita a “limpeza” do ar em cidades poluídas. A água da chuva arrasta partículas e gases que podem formar substâncias indesejáveis ao ambiente como H2SO4, HNO3, entre outros. Qual é a função química dessas substâncias e quais são seus nomes?",
+            "imagem_url_enun": "img/q2mod12009quidisc.png",
+            "resposta_esperada": "I) 1 - Vaporização/Evaporação/Ebulição\n2 - Liquefação/Condensação\n3 – Sublimação\n4 – Fusão\nII) Transformação Química: Ocorre alteração na composição da matéria | Exemplo: Formação de ferrugem\n Transformação Química: Mudança de cor | Exemplo: Fermentação\nTransformação Química: Liberação de gás | Exemplo: Qualquer reação química\nIII) Porque o ciclo da água não promoverá a descontaminação da água, uma vez que esta tenha sido contaminada. Isto diminui a quantidade de água potável no planeta.\nIV)\nimg/Respq2mod12009quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2009,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": " Algumas substâncias presentes em alimentos são responsáveis por diferentes sensações quando ingeridas. Por exemplo, a gingerona causa a sensação de ardência enquanto o mentol é usado para causar a sensação de frescor.\n I - Quais são todas as funções orgânicas oxigenadas presentes, respectivamente, na gingerona e no mentol?\nII - Quais as fórmulas moleculares da gingerona e do mentol?\nIII - Cite quais são os átomos de carbono terciários na estrutura do mentol.\n IV - Qual a hibridação dos átomos de carbono da gingerona listados a seguir?",
+            "imagem_url_enun": "img/q1mod22009uidisc.png",
+            "resposta_esperada": "I)\nGingerona: Éter, fenol, cetona\nMentol: Álcool\nII)\nGingerona: C11H14O3\nMentol: C10H20O\nIII) C2, C5 e C8\nIV) C1: sp³ | C3: sp³ | C5: sp² | C7: sp²",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2009,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "A equação química a seguir representa a formação de enxofre a partir de gases vulcânicos.\nSO2(g) + 2H2S(g)  2H2O(l) + 3S(s)\nI) I - Escreva a equação química balanceada que representa a reação entre o SO2 e a água bem como o nome da substância formada.\nII - Nas condições normais de temperatura e pressão (CNTP), qual é o volume, em litros, de H2S necessário para produzir 19,2 kg de enxofre?\nIII - Sabendo-se que o ΔHformação das espécies envolvidas nessa reação são -296,8 kJ/mol para o SO2 (g), -20,60 kJ/mol para o H2S (g), -285,8 kJ/mol para H2O (l) e 0,00 kJ/mol para o S (s), calcule o valor do ΔH da reação de formação do enxofre a 25°C.\nIV - Com o valor de ΔH obtido anteriormente, classifique a reação como endotérmica ou exotérmica. Justifique sua resposta.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "I)\nEquação Química: SO2 + H2O → H2SO3\nNome: Ácido sulfuroso\nII) 2 x 22,4L de H2S ---------------- 3 x 32,1g de S\nx -------------------- 19.200g\nx=8932L\nIII) ΔH=[3x(0,00)+2x(-285,8)] – [2x(-20,60)+(-296,8)]\nΔH=-571,6+338\nΔH=-233,6 kJ/mol.\nIV) Exotérmica, pois o ΔH da reação é negativo indicando liberação de energia no processo.",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2009,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Tanques reservatórios para combustíveis em postos de abastecimento e tubulações para oleodutos são fabricados a partir de aço. O aço comum é basicamente constituído por ferro. Para proteção desses tanques e tubulações subterrâneas contra corrosões, eles são revestidos por uma camada de magnésio que, periodicamente, deve ser substituída.\na) Com base nos potenciais de redução da tabela acima, explique qual é o processo que ocorre para a proteção dos tanques e tubulações confeccionados com aço comum.\nb) O aço inoxidável é mais resistente a corrosões do que o aço comum. Ele possui em sua composição cerca de 20% de crômio. Como a presença desse metal atribui ao aço inoxidável essa propriedade?\nc) Escreva a reação global balanceada da pilha galvânica formada por ferro e crômio, indicando os agentes, oxidante e redutor.\nd) Quais seriam os danos para o meio ambiente no caso de corrosão desses tanques e tubulações?",
+            "imagem_url_enun": "img/q1mod32009quidisc.png",
+            "resposta_esperada": "a) Como o magnésio apresenta menor potencial padrão de redução com relação ao ferro, o magnésio irá oxidar protegendo o aço.\nb) Em comparação ao aço comum, o qual é revestido com magnésio, o aço inoxidável apresenta maior resistência à corrosão, pois o cromo apresenta potencial padrão de redução maior do que o do magnésio.\nc) Reação: 3Fe>sup>2+</sup> + 2Cr<sup>0</sup> → 3Fe<sup>0</sup> +2Cr<sup>3+</sup> | Agente oxidante: Fe<sup>2+</sup> | Agente redutor: Cr<sup>0</sup>\nd) Contaminação do solo e dos aquíferos pelo combustível.",
+            "imagem_url_resp": ""
+        }
+    },
+    {
+        "ano": 2009,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "A diidroxiacetona HOCH2-CO-CH2OH é o princípio ativo contido nos autobronzeadores. Essa substância reage com o grupo amina dos aminoácidos da epiderme, formando compostos de coloração marrom, as melanoidinas. Ao contrário da melanina, essas substâncias não são capazes de bloquear os raios ultravioleta.\na) Dê a fórmula molecular e o nome do composto obtido pela reação da diidroxiacetona com LiAlH4 (hidreto de lítio e alumínio).\nb) Escreva a equação da reação de 1 mol de diidroxiacetona com 2 moles de ácido acético, em presença de ácido sulfúrico, usando as fórmulas estruturais dos compostos orgânicos.\nc) O processo de formação da melanina envolve a oxidação do fenol primeiramente em parahidroquinona e depois em para-benzoquinona (Quinona). Represente as fórmulas estruturais desses 2 compostos.\nd) O PABA é um composto muito usado em protetores solares. Esse composto pode ser obtido a partir do benzeno, como mostra a seqüência de reações abaixo. Quais são os tipos das reações de substituição aromática que ocorrem nas duas etapas iniciais?\n img/Dq2mod32009quidisc.png",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq2mod32009quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2008,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Uma solução de amoníaco (hidróxido de amônio) é preparada a partir da dissolução do gás amônia em água, de acordo com a seguinte reação:\nNH3 (g) + H2O (l) ⇌ NH4OH (aq) ⇌ NH4 + (aq) + OH- (aq)\na) A solução comercial de hidróxido de amônio tem d=0,91 g/cm³ . Qual é a massa da solução, em gramas, que corresponde a 1,5 L dessa solução?\nb) O que aconteceria se adicionássemos algumas gotas de uma solução de fenolftaleína à solução comercial de hidróxido de amônio?\nc) Classifique a ligação N-H, do NH3, quanto a sua polaridade. Escreva a fórmula de Lewis ou fórmula eletrônica do íon amônio.\nd) A reação entre o hidróxido de amônio e o ácido carbônico forma o carbonato de amônio e água. Escreva a fórmula molecular do carbonato de amônio e a qual função inorgânica ele pertence.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq1mod12008quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2008,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "É comum os nossos olhos lacrimejarem ao cortamos uma cebola. Isso ocorre devido à evaporação de compostos derivados do enxofre presentes na cebola. Dentre eles, estão os óxidos de enxofre que, em contato com a umidade, dão origem a ácidos.\na) Quais são os nomes dos dois principais óxidos de enxofre e suas respectivas fórmulas moleculares?\nb) Quais são as fórmulas moleculares dos ácidos formados pelos dois principais óxidos de enxofre?\nc) Escreva a configuração eletrônica do enxofre. Qual é o número de oxidação do enxofre nos dois óxidos?\nd) Com base nas informações do texto, explique por que, quando colocamos a cebola na geladeira ou em água, antes de cortá-la, lacrimejamos menos.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq2mod12008quidisc.png ",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2008,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "A partir do gráfico apresentado, que mostra as variações da solubilidade do nitrato de potássio e do cloreto de potássio em água com a temperatura, responda às questões propostas nos itens a, b, c, d.\na) Em qual temperatura o KCl e o KNO3 possuem a mesma solubilidade em água? Compare as solubilidades desses sais em temperaturas maiores do que a encontrada.\nb) Determine a massa, em gramas, do nitrato de potássio que precipita, ou seja, que se deposita no fundo do recipiente, e também a massa do sal (em gramas) que permanece em solução, quando a solução aquosa desse sal é resfriada de 60 °C até 40 °C.\n c) Qual é o título em massa (τm) da solução de KCl a 40 °C?\nd) A dissolução do nitrato de potássio em água é endotérmica ou exotérmica? Justifique sua resposta.",
+            "imagem_url_enun": "img/q1mod22008quidisc.png",
+            "resposta_esperada": "img/Respq1mod22008quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2008,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "A vernoleptina é uma substância que reage de maneira irreversível com a enzima DNA polimerase, resultando em atividade antitumoral.\na) Quais são os três grupos funcionais presentes na estrutura apresentada?\nb) Qual é a hibridação dos carbonos C-3, C-5 e C-14?\nc) Qual é a fórmula molecular e a massa molar da vernoleptina?\nd) Especifique, de acordo com a numeração dos carbonos, todos os átomos de carbono primários da molécula.",
+            "imagem_url_enun": "img/q2mod22008uidisc.png",
+            "resposta_esperada": "img/Respq2mod22008quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2008,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O mel contém uma mistura complexa de carboidratos, enzimas, aminoácidos, ácidos orgânicos, minerais etc. O teor de carboidratos no mel é de cerca de 70 % da massa de mel, sendo a glicose e a frutose os açúcares em maior proporção. A acidez do mel é atribuída à ação da enzima glucose oxidase presente no mel, que transforma a glicose em ácido glucônico e H2O2.\na) Quantos carbonos quirais estão presentes na molécula de glicose e de frutose, respectivamente?\nb) O ácido glucônico é um dos principais responsáveis pela acidez do mel. Sabendo-se que o pH de uma amostra de mel é 3,0 e a constante de dissociação do ácido glucônico é 1 x 10-4, qual é a concentração de ácido glucônico nessa amostra de mel?\nc) O peróxido de hidrogênio, gerado na oxidação da glicose pela enzima glucose oxidase, decompõe-se, produzindo água e gás oxigênio. Calcule a velocidade média, em mol . L-1. s-1, de decomposição do peróxido de hidrogênio entre 0 e 10 minutos.\nd) As enzimas são altamente específicas e constituem os catalisadores biológicos. Qual é a função do catalisador, glucose oxidase, na reação de formação do peróxido?",
+            "imagem_url_enun": "img/q1mod32008quidisc.png",
+            "resposta_esperada": "img/Respq1mod32008quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2008,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Os terpenos são compostos orgânicos naturais, usados na indústria de perfumes (essências), inseticidas e condimentos. O α-terpineol pertence à classe dos terpenos e pode ser isolado do óleo essencial de lavanda. Com base na estrutura desse composto, representada a seguir, responda aos itens a, b, c e d.\nI) Represente a estrutura do composto obtido por reação do α-terpineol com uma solução de bromo em CCl4 (tetracloreto de carbono).\nII) Qual é a fórmula molecular do composto obtido pela reação de adição de hidrogênio (hidrogenação catalítica) ao α-terpineol?\nIII) A desidratação de α-terpineol em meio ácido produz dois compostos isômeros de fórmula molecular C10H16. Represente as estruturas desses compostos e defina o tipo de isomeria que existe entre eles.\nIV) Quantos enanciômeros (isômeros ópticos) possui o α-terpineol? Qual é a propriedade física que permite a diferenciação entre isômeros ópticos?",
+            "imagem_url_enun": "img/q2mod32008quidisc.png ",
+            "resposta_esperada": "img/Respq2mod32008quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2007,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "1)\na) Preencha as palavras cruzadas abaixo.\n\nHorizontais\n1. Nome do ânion SO4<sup>-2</sup>.\n2. Nome do elemento químico que pertence ao 2º período e grupo 13.\n3. Símbolo do elemento químico estrôncio.\n4. Nome do elemento químico cuja configuração eletrônica é [Ar] 4s² 3d<sup>6</sup>.\n5. Símbolo do elemento químico que possui 27 prótons no seu núcleo.\n\nVerticais\n6. Nome do elemento químico com maior eletroafinidade ou afinidade eletrônica\n7. Nome do elemento químico cujo símbolo é P.\n8. Nome do elemento químico que possui 47 elétrons.\n9. Nome dado às espécies que sofreram perda ou ganho de elétrons.\n10. Fórmula molecular do ácido clorídrico.\nb) Dentre os elementos químicos do item a, um deles tem maior facilidade de formar um ânion monovalente enquanto outro elemento possui maior facilidade de formar um cátion bivalente. Qual seria o nome do ânion formado e a distribuição eletrônica do cátion formado?\nc) De acordo com a Teoria de Arrhenius, como se caracteriza um ácido e como poderia se comprovar que uma solução é ácida?",
+            "imagem_url_enun": "img/q1mod12007quidisc.png",
+            "resposta_esperada": "img/Respq1mod12007quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2007,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Os elementos do segundo período da Tabela Periódica pertencentes aos grupos 14, 15, 16 e 17 formam compostos com o hidrogênio. Embora todos os elementos pertençam ao mesmo período, as propriedades dos compostos formados são bem diferentes, como pode ser observado na tabela abaixo.\n img/q2mod12007quidisc.png \n a) Escreva a fórmula molecular dos compostos 1 a 4, identificando os elementos químicos representados por X, Y, Z e T, RESPECTIVAMENTE\n b) Dos compostos acima, quais são líquidos e quais são gases na temperatura ambiente (25°C)?\n c) Os compostos 1 e 2 têm temperaturas de ebulição bem diferentes. Com base nas interações moleculares, justifique as diferenças.\n d) Por que o número de átomos de hidrogênio ligados a cada elemento da tabela acima é diferente? Justifique.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq2mod12007quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2007,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Em um recipiente hermeticamente fechado e isolado, de volume igual a 1 litro e contendo 500 mL de água destilada, foram adicionados 4,6 g de sódio metálico. Sabe-se que o sódio metálico reage violentamente com a água, liberando gás hidrogênio. Após a adição de Na(s), a temperatura interna do sistema aumentou.\na) Escreva a equação química balanceada que representa essa reação.\nb) A reação é exotérmica ou endotérmica? Justifique sua resposta.\nc) Calcule o volume do gás formado (em litros) nas CNTP, considerando que este possui um comportamento ideal.\nd) O gás liberado sofre combustão ao entrar em contato com o ar atmosférico. A partir dos valores de energias de ligação em kJ/mol, dispostos na tabela abaixo, calcule a variação de entalpia na reação de combustão do gás.\n img/Dq1mod22007quidisc.png",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq1mod22007quidisc.png ",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2007,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "A comunicação entre insetos pode ocorrer através dos odores de substâncias químicas denominadas feromônios. Com relação aos quatro feromônios abaixo, responda: \n img/q2mod22007quidisc.png \na) Quais as funções orgânicas oxigenadas presentes, respectivamente, nos compostos B e D ?\nb) Qual a fórmula molecular do feromônio C e qual o nome do composto B?\nc) Na estrutura do feromônio A existe uma dupla ligação carbono-carbono. Qual a hibridação presente nos átomos de carbono dessa dupla ligação? O que você entende pelo termo hibridação?\n d) Apenas uma gota do feromônio D, colocada em uma armadilha, poderia atrair centenas de insetos para dentro da mesma. Desta forma, essa substância poderia ser utilizada para controlar a reprodução dos insetos. Quais as vantagens de se utilizar tal composto no controle da reprodução dos insetos ao invés de se usar inseticidas ?",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq2mod22007quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2007,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": " O Tamiflu é uma droga potente contra o vírus influenza e tem sido usado no combate ao vírus H5N1, responsável pela gripe aviária. A síntese do Tamiflu utiliza, como materiais de partida, o ácido quínico ou o ácido shikímico, os quais podem ser obtidos a partir de certas plantas. Com base nas estruturas desses compostos, representadas abaixo, pede-se:\n img/q1mod32007quidisc.png \n a) Qual a fórmula molecular do ácido quínico e o tipo de reação que permitiria a transformação do ácido quínico no ácido shikímico?\n b) Quantos grupos metila estão presentes no Tamiflu e quais os nomes das duas funções nitrogenadas existentes nesse composto?\nc) Defina o conceito de carbono assimétrico (quiral). Quantos átomos de carbono assimétrico existem na estrutura do ácido shikímico?\nd) Represente a equação química da hidrólise básica do Tamiflu. Considere apenas a reação no grupo funcional éster desse composto.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq1mod32007quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2007,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "A acidez dos vinhos influencia sua estabilidade, coloração e sabor. Ela pode ser avaliada através do pH e da concentração dos ácidos orgânicos. Dentre os ácidos orgânicos presentes nos vinhos, alguns são provenientes da uva e outros são resultantes do processo de fermentação ou ainda, utilizados como conservantes.\n img/q2mod32007quidisc.png \n a) Considere três soluções aquosas distintas, cada uma contendo respectivamente 0,10 mol/L de ácido benzóico, 0,10 mol/L de ácido acético e 0,10 mol/L de ácido láctico. De acordo com a tabela acima, qual dessas soluções irá apresentar maior valor de pH? Justifique.\nb) Determine a concentração, em mol/L, de íons H+ presentes em uma solução de ácido láctico na concentração de 0,01 mol/L. Qual seria a concentração de uma solução de KOH, em mol/L, necessária para neutralizar essa solução de ácido láctico?c) Além do ácido benzóico, o benzoato de sódio também pode ser usado na conservação de alimentos. Complete a reação abaixo.\n img/Cq2mod32007quidisc.png \nd) As grandes vinícolas do mundo têm uma grande preocupação com a qualidade do fechamento das garrafas de vinho. O vinho pode sofrer alterações transformando-se em 'vinagre' (ácido acético). Esse processo pode acontecer mesmo em garrafas fechadas, mas muito lentamente. Deixando a garrafa aberta, esse processo ocorre rapidamente. Qual seria o fator responsável pelo aumento da velocidade dessa reação? Explique.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq2mod32007quidisc.png ",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2006,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "A água é a substância mais abundante na superfície da Terra, sendo encontrada na forma sólida (gelo nas altas montanhas, nos icebergs, etc.), na forma líquida (oceanos, rios, águas subterrâneas, etc.) ou na forma gasosa (como umidade do ar, nuvens, etc.). Responda às seguintes questões:\n a) A água pode ser encontrada na forma pura ou não. Cite duas propriedades que poderiam ser usadas para verificar esta pureza.\nCom base nos dados da tabela abaixo, responda aos itens b e c.\n img/Aq1mod12006quidisc.png \nb) Quando colocamos uma pedra de gelo em um copo de água, o gelo flutua. Por que isso ocorre?\nc) Sabemos que a água pura tem densidade igual a 1,00 g/cm3 , a 25°C, e que a água do mar possui sais minerais dissolvidos. Qual seria a massa de sais minerais dissolvidos por litro na água do Mar Morto? Dado: 1 L = 1,0 x 10³ cm³\nd) Pensando nas mudanças de estado físico da água e no seu ciclo na natureza, quais seriam os processo,",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq1mod12006quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2006,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Na tabela abaixo, estão apresentados os pontos de ebulição de algumas substâncias químicas.\n img/q2mod12006quidisc.png \na) Cite duas substâncias simples e duas compostas, dentre as presentes na tabela.\nb) Baseado no tipo de ligação e nas interações que podem ocorrer entre as moléculas, explique a diferença de pontos de ebulição entre H2O e H2S.\nc) Para as substâncias NH3 e Br2, indique o estado físico na temperatura ambiente (25°C) e a classificação quanto à polaridade das ligações.\nd) Escreva as fórmulas eletrônicas (modelos de Lewis) e faça a previsão das geometrias moleculares para as moléculas NH3 e H2O.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq2mod12006quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2006,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "A hidrazina (H2N-NH2) tem sido utilizada como combustível em motores de foguetes, apresentando a reação de combustão descrita abaixo:\nH2N-NH2 (g) + O2 (g) → N2 (g) + 2 H2O (g)\na) Qual o volume ocupado, nas CNTP, por 20,0 g de hidrazina?\nb) Se ocorrer um aumento de pressão durante a reação de combustão da hidrazina, o que acontecerá com o volume das espécies químicas no processo reacional?\nc) A variação de entalpia dessa reação pode ser estimada a partir dos dados de entalpia das ligações químicas envolvidas. A partir dos dados da tabela, calcule o ∆H para a reação de combustão de um mol de hidrazina.\n img/Cq1mod22006quidisc.png \nd) O processo de combustão da hidrazina é endotérmico ou exotérmico? Justifique sua resposta.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq1mod22006quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2006,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Os adoçantes artificiais são substâncias que têm sabor doce ao paladar, e alguns destes são dezenas de vezes mais doces do que a sacarose, sendo utilizados em alimentos dietéticos. Com relação aos adoçantes abaixo, responda:\n img/q2mod22006quidisc.png \na) Quais são as funções orgânicas presentes no aspartame?\nb) Classifique os átomos de carbono do ciclamato de sódio em primários, secundários, terciários ou quaternários. Quantos átomos de carbono com hibridização sp3 possui o ciclamato de sódio?\nc) Considerando-se que na fabricação de um determinado refrigerante “light” utilizou-se a concentração de 301,5 mg de ciclamato por litro de refrigerante, qual seria a concentração em mol/L de ciclamato no refrigerante?\nd) O aspartame apresenta valor calórico igual ao da sacarose, 4 kcal por grama. No entanto, seu poder edulcorante (ou índice de doçura) é 180, ou seja, o aspartame é 180 vezes mais doce do que a sacarose. Se o valor calórico de ambos é igual, qual a vantagem em usar-se o aspartame em regimes alimentares?",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq2mod22006quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2006,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O biodiesel é produzido a partir de óleos vegetais, novos ou usados, ou de gorduras animais, através do processo de transesterificação (ou alcoólise). A reação abaixo representa a transformação de uma gordura em uma mistura de glicerina e um componente do biodiesel.\n img/q1mod32006quidisc.png \na) Quantos átomos de carbono com hibridização sp³ possui a molécula de glicerina e qual a fórmula molecular do componente do biodiesel representado acima?\nb) Qual a função química orgânica presente em ambas as moléculas de gordura e biodiesel? Qual a massa molar do componente do biodiesel representado acima?\nc) A hidrólise da molécula do componente do biodiesel apresentado, em presença de NaOH, irá gerar um composto utilizado na limpeza. Qual a fórmula estrutural desta substância?\nd) Dê a fórmula estrutural de um isômero plano funcional do componente do biodiesel dado acima.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq1mod32006quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2006,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O método de determinação da concentração de água oxigenada numa solução é baseado na reação entre a água oxigenada e o permanganato de potássio em meio ácido. Este método é utilizado no controle de qualidade do produto “água oxigenada” comumente vendido em farmácias. As semi-reações do processo, com seus respectivos potenciais padrão de redução, são as seguintes:\nMnO4<sup>−</sup>(aq) + 8 H<sup>+</sup> (aq) + 5e<sup>−</sup> → Mn<sup>2+</sup> (aq) + 4 H2O(l) | E° = 1,51 V\n2H<sup>+</sup>(aq) + O2(g) + 2e<sup>-</sup> → H2O2(aq) | E° = 0,68 V\na) Escreva a reação global balanceada do processo.\nb) Indique os agentes oxidante e redutor do processo.\nc) Calcule o ∆E° do processo. Este processo é espontâneo? Justifique.\nd) Escreva a expressão matemática da lei cinética ou de velocidade da reação global do processo\ne) Sabendo que tal reação somente ocorre em meio ácido, e supondo que a concentração de íons H<sup>+</sup> no meio reacional é de 1,0x10<sup>−2</sup> mol/L, calcule o pH inicial da solução. Demonstre seu cálculo.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq2mod32006quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2005,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "A maioria das substâncias é encontrada na natureza sob a forma de misturas. Um exemplo disso é o petróleo que, após a extração, é levado para as refinarias, onde sofre a separação e purificação de seus componentes, para que sejam utilizados no dia-a-dia.\nObserve, com atenção, o desenho abaixo para responder aos itens a) e b). Identifique:\n img/q1mod12005quidisc.png \na) a técnica empregada na separação dos componentes do petróleo.\nb) o componente que é removido em primeiro lugar no processo. Justifique sua resposta.\nA gasolina brasileira recebe a adição regulamentada de etanol, no limite máximo de 24%. Em uma visita rotineira de inspeção aos postos de gasolina, foi realizado o procedimento para detectar o teor de álcool na gasolina. Leia abaixo a descrição desse procedimento e o quadro referente à densidade das substâncias para responder ao item c).\nTeor de álcool na gasolina Em uma proveta foram adicionados 50 mL de gasolina e 50 mL de água. Após agitação e repouso, por alguns minutos, duas fases são observadas. A fase superior apresentou 35 mL; a fase inferior, 65 mL.\n img/Cq1mod12005quidisc.png \nc) A gasolina analisada está adulterada? Justifique sua resposta, apresentando os cálculos necessários.\nd) Por que a água extrai o álcool presente na gasolina? Justifique adequadamente a sua resposta,",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq1mod12005quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2005,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": " Quando lavamos pratos, alguns resíduos insolúveis de comida se depositam no cano da pia da cozinha, obstruindo-o. Para se desentupir o cano, pode-se comprar no comércio um produto com a seguinte composição química: ❶\n img/q2mod12005quidisc.png \na) Classifique como ácidos, bases, sais ou óxidos, os componentes 1 e 3 do produto comercial\nb) Escreva a fórmula MOLECULAR do componente 2 do produto comercial e calcule sua massa molecular.\nc) Represente a fórmula ESTRUTURAL do ânion, presente no nitrato de sódio.\nd) Explique a diferença de condutividade elétrica entre a água pura e a mistura de água + produto comercial.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq2mod12005quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2005,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "A respiração é o processo pelo qual o organismo obtém energia, a partir de matéria orgânica. A glicose (estrutura abaixo) é a principal responsável por este processo.\n img/q1mod22005quidisc.png\nConsiderando estas informações, responda:\n a) Uma molécula de glicose possui quantos átomos de carbono secundário e qual o número de átomos de carbono de hibridização sp³?\nb) Quais as funções orgânicas presentes em uma molécula de glicose?\n Leia a representação da reação de combustão da glicose, no quadro abaixo, e responda ao que se pede:\n img/C1q1mod22005quidisc.png \nc) Calcule a variação de entalpia envolvida no processo de combustão da glicose. Apresente seus cálculos. De acordo com o resultado, explique por que o nosso organismo obtém energia a partir da glicose, através da respiração.\n img/C2q1mod22005quidisc.png\n d) Um paciente diabético apresentou 0,900 g de glicose em 500 mL de soro sangüíneo analisado. Qual a concentração em mol/L de glicose no sangue desse paciente? Apresente seus cálculos.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq1mod22005quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2005,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Leia as informações no quadro abaixo e responda ao que se pede:\n img/q1mod22005quidisc.png \na) Classifique o processo de dissolução do H2SO4 em água como exotérmico ou endotérmico. O que aconteceu com a temperatura da água do mar no local onde o ácido sulfúrico foi derramado? Explique.\nb) Para solucionar o problema, pode-se adicionar hidróxido de sódio antes de se despejar o ácido na água. Escreva a equação química balanceada que representa a reação produzida e explique por que este procedimento resolveria o problema.\nc) Supondo que a composição do casco do navio seja basicamente ferro metálico, explique, utilizando uma representação de uma equação química, o que provocou o rompimento do casco do navio.\nd) Relacione as propriedades do ácido sulfúrico, as características da sua dissolução em água e as conseqüências ambientais desse acidente.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq2mod22005quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2005,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O ácido eicosapentaenóico (EPA), cuja estrutura está representada abaixo, é um ácido graxo (ácido carboxílico de cadeia longa), também conhecido como Ômega-3.\n img/q1mod32005quidisc.png \nCom base nessas informações, responda aos itens a seguir.\n a) Considerando a estrutura da molécula do EPA, que tipo de estereoisomeria é esperada para esse composto?\nb) A relação direta entre dietas ricas em gorduras saturadas e doenças cardíacas é bem conhecida. Considerando a estrutura do EPA e observando as informações presentes na Tabela I, abaixo, responda:\n img/Bq1mod32005quidisc.png \n Alimentos ricos em EPA podem ser ingeridos por pessoas com problemas cardíacos? Justifique sua resposta.\n Que tipo de alimento, descrito na Tabela I, NÃO é recomendado para pessoas com problemas cardíacos? Justifique sua resposta.\n c) Alimentos que contêm ácidos graxos insaturados podem sofrer oxidação, formando aldeídos, que são responsáveis pelo aparecimento do gosto ruim ou “ranço”. Esse processo também é conhecido como “rancificação”. Escreva a fórmula estrutural de um dos aldeídos formados quando o ácido oléico (estrutura representada abaixo) é oxidado através da reação com o ozônio (ozonólise)\n img/Cq1mod32005quidisc.png \nd) O ácido oléico pode reagir com etanol, produzindo o composto I, como representado abaixo:\n img/Dq1mod32005quidisc.png \nQue tipo é esse de reação e qual a fórmula estrutural do composto I?\ne) As moléculas representadas abaixo são isômeros do ácido oléico? Em caso afirmativo, identifique o tipo de isômeros.\n img/Eq1mod32005quidisc.png",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq1mod32005quidisc.png ",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2005,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Talheres de prata escurecem quando entram em contato com alimentos que contenham substâncias derivadas de enxofre, como é o caso de ovos e cebola. A reação que ocorre é a seguinte:\n img/1q2mod32005quidisc.png \nPara a limpeza desses talheres, podem ser usadas pastas limpadoras que contêm abrasivos. Estas pastas, apesar de eliminarem a película escura, também expõem a superfície do metal, podendo levá-lo à corrosão. Algumas pastas, porém, possuem na sua composição alumínio em pó, para eliminar a cor escura, sem afetar a superfície do metal. Nesse último caso, a reação que ocorre é a seguinte:\n img/2q2mod32005quidisc.png \n a) As duas reações apresentadas NÃO estão balanceadas. Escreva as equações químicas balanceadas para os dois processos, nos espaços abaixo.\nb) O escurecimento do talher (Processo I) é um processo de oxidação-redução. Escreva o nome do:\n c) Baseado nos valores dos potenciais de redução das espécies envolvidas, descritas abaixo, e na reação do Processo II, explique por que o alumínio foi escolhido para ser adicionado à pasta limpadora.\n img/Cq2mod32005quidisc.png \nd) Com base no processo de limpeza da prata (Processo II), podemos construir uma pilha de alumínio e prata, de acordo com o esquema abaixo. Mostre, no desenho, o cátodo e o ânodo, pólos positivo e negativo, e o sentido do fluxo de elétrons.\n img/Dq2mod32005quidisc.png",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq2mod32005quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2004,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Em ambientes fechados, como submarinos, aviões ou naves espaciais, tanto a tripulação quanto os passageiros morreriam asfixiados com o aumento da concentração de gás carbônico, não fosse a criação de purificadores de ar. Nesses aparelhos, o ar ambiente contendo excesso de gás carbônico passa por reservatórios que contêm hidróxido de lítio, produzindo uma reação química que fornece carbonato de lítio e água como produtos.\n a) Escreva a configuração eletrônica do cátion presente no carbonato de lítio.\nb) Classifique todas as substâncias participantes da reação química como iônicas ou moleculares.\nc) Classifique o gás carbônico, o hidróxido de lítio e o carbonato de lítio como ácidos, bases, sais ou óxidos.\nd) Represente a fórmula estrutural do gás carbônico e classifique-o quanto à sua polaridade.\ne) Considerando a reação química descrita no enunciado, no caso do uso de purificadores de ar em naves espaciais, além da eliminação do gás carbônico do ar ambiente, que outro benefício esses aparelhos trazem para a tripulação no espaço?",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq1mod12004quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2004,
+        "modulo": "1",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "As vitaminas são substâncias químicas essenciais para o bom funcionamento do nosso organismo. O quadro abaixo apresenta algumas propriedades e características de algumas vitaminas:\n img/q2mod12004quidisc.png \na) Qual o estado físico de cada vitamina a 70 o C na pressão atmosférica?\nb) Considerando que um sólido branco seja uma das vitaminas apresentadas no quadro, quais propriedades poderiam ser utilizadas para identificá-lo?\nc) Suponha que comprimidos de vitaminas A e C foram triturados e misturados. Qual a seqüência de procedimentos que deveria ser utilizada para separar as vitaminas e recuperá-las de volta ao estado sólido?\nd) A vitamina A é insolúvel em água, pois é uma molécula praticamente apolar que possui grande número de ligações entre átomos de carbono e hidrogênio. Por outro lado, a vitamina C é solúvel em água, pois é uma molécula polar que possui muitos grupos –OH, ou seja, átomos de hidrogênio ligados a átomos de oxigênio. De posse dessas informações e considerando as forças intermoleculares existentes em cada caso, explique a diferença entre os pontos de fusão das vitaminas A e C.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq2mod12004quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2004,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "Os combustíveis comumente usados como carvão, petróleo, gás natural, etc., são poluentes e tendem a se esgotar no futuro. O hidrogênio se apresenta como uma boa alternativa para movimentar veículos, queimar em fogões domésticos e aquecer casas em lugares frios. O quadro abaixo mostra o poder calorífico dos principais combustíveis. Sobre a possibilidade do uso do H2 como combustível, responda os itens a seguir:\n img/q1mod22004quidisc.png \na) Calcule a densidade de um mol de H2 (em g/L) nas CNTP.\n b) Em termos ambientais, qual a vantagem do uso do hidrogênio como combustível em vez da gasolina?\nc) Calcule a pressão exercida em um tanque de automóvel (100 L) pela quantidade de H2, que fornece a mesma energia que 500 g de álcool combustível a 27 °C . (Dado: R = 0,082 atm/mol.K)",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq1mod22004quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2004,
+        "modulo": "2",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "As transformações representadas abaixo (I, II e III) estão envolvidas em um processo da indústria petrolífera, denominado reforming. Esse processo é extremamente importante para melhorar a qualidade da gasolina, pois os hidrocarbonetos aromáticos, cíclicos e ramificados produzidos aumentam o desempenho do combustível nos motores de automóveis.\n img/q2mod22004quidisc.png \nCom relação aos produtos das reações representadas acima, faça o que se pede:\n a) Forneça o nome do hidrocarboneto gerado no processo II e classifique sua cadeia carbônica quanto à natureza dos átomos e quanto aos tipos de ligações entre os átomos de carbono.\nb) Quantos átomos de carbono primários, secundários e terciários possui o produto gerado no processo I?c) Calcule a variação de entalpia no processo II, considerando que todas as espécies envolvidas estão no estado gasoso a 25°C e 1 atm. Classifique a reação como exotérmica ou endotérmica.\n (Dados: ∆Hf (C6H14,g) = -167,19 kJ/mol | ∆Hf (C6H12,g) = -123,14 kJ/mol)\nd) Qual(is) o(s) principal(is) produto(s) gerado(s) na combustão completa do benzeno? Forneça o(s) nome(s) e fórmula(s) molecular(es).",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq2mod22004quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2004,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "A pilha comum, encontrada à venda em vários estabelecimentos comerciais, pode ser representada pela figura abaixo:\n img/1q1mod32004quidisc.png \nAs semi-reações de redução que ocorrem nessa pilha são:\n img/2q1mod32004quidisc.png \nA partir das informações dadas, responda aos itens a seguir:\na) Baseado no seu conhecimento de eletroquímica, quando essa pilha cessará seu funcionamento?\nb) A partir das semi-reações dadas acima, escreva a equação química global dessa pilha e indique qual é a espécie que sofrerá oxidação e qual é a espécie que sofrerá redução.\nc) Calcule ∆E°<sub>red</sub> da pilha.\nd) Observando a equação química global que você escreveu no item b e supondo que esse sistema esteja em equilíbrio químico, explique, baseado no princípio de Le Chatelier, o que acontecerá ao equilíbrio, se a concentração de amônia for aumentada.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq1mod32004quidisc.png",
+            "imagem_url_resp": null
+        }
+    },
+    {
+        "ano": 2004,
+        "modulo": "3",
+        "disciplina": "Química",
+        "tipo": "discursiva",
+        "questao": {
+            "enunciado": "O ácido para-amino benzóico (PABA) é um aminoácido, utilizado como intermediário para a preparação de anestésicos e de corantes. Ele pode ser sintetizado a partir do benzeno, de acordo com a seqüência abaixo:\n img/q2mod32004quidisc.png \n Considere os compostos representados no esquema, para responder aos itens a seguir:\na) Na reação de preparação do composto III, ocorre também a formação de um outro isômero. Qual a fórmula estrutural desse isômero e que tipo de isomeria existe entre esses dois compostos?\nb) Quais os reagentes que permitem a transformação do benzeno no composto II?\nc) Os aminoácidos como o PABA possuem caráter anfótero, ou seja, reagem tanto com ácidos como com bases. A que se deve o caráter anfótero dos aminoácidos?\nd) O para-amino-benzoato de etila é conhecido como benzocaína (anestésico). Escreva a reação de obtenção da benzocaína a partir do PABA.",
+            "imagem_url_enun": null,
+            "resposta_esperada": "img/Respq2mod32004quidisc.png",
+            "imagem_url_resp": null
+        }
     }
 ]
