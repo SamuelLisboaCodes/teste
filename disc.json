@@ -3236,8 +3236,8 @@
         "questao": {
             "enunciado": "Em 1776, Alessandro Volta (cientista italiano) relatou um gás que borbulhava em pântanos. A esse gás deu-se o nome de metano. O metano é composto por um átomo de carbono e 4 hidrogênios. Sobre esse gás, faça o que se pede a seguir:\nA) Represente a molécula de metano através do modelo de Lewis.\nB) De acordo com as geometrias e polaridades das moléculas de metano e da água explique por que o metano possui baixa solubilidade em água.",
             "imagem_url_enun": null,
-            "resposta_esperada": null,
-            "imagem_url_resp": "Respq1mod12022quidisc.png"
+            "resposta_esperada": "Respq1mod12022quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -3296,8 +3296,8 @@
         "questao": {
             "enunciado": "Hidrocarbonetos com a fórmula C4H8 são compostos que servem para inúmeras reações orgânicas. Desenhe os hidrocarbonetos com essa fórmula que possuem a isomeria geométrica (cis/trans).",
             "imagem_url_enun": null,
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/q1mod32022quidisc.png"
+            "resposta_esperada": "img/q1mod32022quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -3320,8 +3320,8 @@
         "questao": {
             "enunciado": "Alcenos são reagentes iniciais para inúmeras reações químicas e processos industriais. Quando propileno (propeno) reage com HBr, se obtêm 2 (dois) produtos, um majoritário e um minoritário.\nA) Que tipo de reação está sendo descrita?\nB) Desenhe as fórmulas estruturais destes dois produtos e indique qual deles é o majoritário. ",
             "imagem_url_enun": null,
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq3mod32022quidisc.png"
+            "resposta_esperada": "img/Respq3mod32022quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -3488,8 +3488,8 @@
         "questao": {
             "enunciado": "As fórmulas moleculares descrevem precisamente a composição química de um composto puro em função do tipo e número de átomos presentes. Apesar disto, diferenças na conectividade entre os átomos da molécula podem resultar em diversos isômeros funcionais. Considere a fórmula molecular C3H6O e desenhe as fórmulas estruturais de: uma cetona, um aldeído, dois éteres e um álcool secundário cíclico. Inclua todos os átomos e ligações nos desenhos.",
             "imagem_url_enun": null,
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq2mod22020quidisc.png"
+            "resposta_esperada": "img/Respq2mod22020quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -3512,8 +3512,8 @@
         "questao": {
             "enunciado": "Os alcanos presentes no petróleo bruto são matérias primas para inúmeros produtos usados na indústria e no comércio. Um processo de suma importância é chamado de pirólise ou “craqueamento”, que ocorre na presença de catalisadores a altas temperaturas e pressões. Neste processo, alcanos são convertidos em outros hidrocarbonetos de massa molecular inferior. Considere a pirólise de hexano, C6H14, que resulta na formação de C4H10 e C2H4 e reção entre C2H4 com um mol de H2, formando um novo hidrocarboneto.\nDesenhe as fórmulas estruturais dos quatro hidrocarbonetos citados acima, ilustrando todos os átomos e ligações.",
             "imagem_url_enun": null,
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq2mod32020quidisc.png"
+            "resposta_esperada": "img/Respq2mod32020quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -3668,8 +3668,8 @@
         "questao": {
             "enunciado": "Os compostos contendo cloreto estão entre os mais corriqueiros da química inorgânica. Dentre esses compostos encontram-se o cloreto de potássio (A), tricloreto de boro (B), pentacloreto de antimônio (C) e cloreto férrico (D).\nA) Qual a fórmula química de cada cloreto citado no texto acima?\nB) Qual a geometria molecular do composto B?\nC) Escreva a estrutura de Lewis para o composto C.\nD) ) O composto A dissolvido em água constitui uma mistura homogênea ou heterogênea? Justifique sua resposta.",
             "imagem_url_enun": null,
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq1mod12018quidisc.png"
+            "resposta_esperada": "img/Respq1mod12018quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -3704,8 +3704,8 @@
         "questao": {
             "enunciado": "Os flavonóides são compostos bioativos encontrados em hortaliças, frutas, cereais, chás, café, cacau, vinho e suco de frutas e são responsáveis pelas pigmentações amarela, vermelha e violeta de diversas flores. Um dos benefícios do consumo de frutas e outros vegetais é geralmente atribuído aos flavonóides, uma vez que esta classe de substâncias apresenta diversos efeitos biológicos que incluem, entre outros: ação anti-inflamatória, anticâncer e antioxidante. Dentre os flavonóides, pode-se citar a flavona e flavonol, cujas estruturas estão representadas a seguir. Com base nas estruturas dos compostos, responda:\nA) Qual é a função orgânica oxigenada que está presente EXCLUSIVAMENTE na estrutura da flavona e do flavonol, respectivamente?\nB) Qual é a hibridização dos átomos de carbono numerados de 1 a 4 na molécula da FLAVONOL?\nC) Classifique os átomos de carbono numerados de 1 a 4 em primário, secundário, terciário ou quaternário na molécula da FLAVONA.\nD) Escreva a fórmula molecular do FLAVONOL.",
             "imagem_url_enun": "img/q2mod22018quidisc.png",
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq2mod22018quidisc.png"
+            "resposta_esperada": "img/Respq2mod22018quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -3728,8 +3728,8 @@
         "questao": {
             "enunciado": "As plantas passam constantemente por diversas situações de estresse, como oscilações drásticas de temperatura, radiação solar, ataque de pragas, dentre outros, e conseguem modular respostas de defesa. O ácido abscísico, ácido jasmônico e seus derivados jasmonatos são reguladores vegetais endógenos que atuam no mecanismo de defesa das plantas e agem como sinalizadores desses estresses. A jasmona é um composto orgânico natural extraído da parte volátil do óleo de jasmim, produzido nas plantas a partir do metabolismo do jasmonato.\nFonte: Rev. de Ciências Agrárias, vol.38, no.3, Lisboa, set. 2015\n\nA respeito desses compostos responda o que se pede:\na) O metil-jasmonato é produzido a partir da esterificação do ácido jasmônico. Qual o reagente orgânico necessário para a produção do metil-jasmonato a partir do ácido jasmônico?\nb) Assinale com um asterisco (*) o(s) átomo(s) de carbono quiral na molécula do ácido abscísico.\nc) Quais as fórmulas estruturais dos compostos orgânicos formados na ozonólise do ácido jasmônico?\nd) A jasmona pode existir em duas formas diferentes de isômeros, cis- e trans-jasmona. O extrato natural contém apenas a forma cis, enquanto o material sintético é muitas vezes uma mistura que contém ambas as formas. Escreva a estrutura química do isômero geométrico trans-jasmona.",
             "imagem_url_enun": "img/q2mod32018quidisc.png",
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq2mod32018quidisc.png "
+            "resposta_esperada": "img/Respq2mod32018quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -3764,8 +3764,8 @@
         "questao": {
             "enunciado": "O metil benzeno é um líquido incolor com um odor característico. Ocorre na forma natural no petróleo e é produzido durante a manufatura da gasolina e de outros combustíveis a partir do petróleo. Ele é a matéria-prima a partir da qual se obtém uma série de substâncias como o fenol, os derivados do benzeno, o cresol, dentre outras. Responda às questões abaixo, considerando a formação dos produtos principais em todas as reações:\na) Quais são as fórmulas estruturais dos produtos da reação entre o metil benzeno e Cl2 na presença de AlCl3?\nb) Forneça as estruturas químicas para os compostos de fórmulas moleculares C7H7Br e C7H6O2\nc) O cresol existe em três formas de estrutura química muito semelhantes entre si, os isômeros: orto-cresol, metacresol e o para-cresol. Qual o tipo de isomeria existente entre as três formas do cresol?\nd) O cresol pode também ser produzido sinteticamente por metilação do fenol. Escreva a equação química que representa a reação de formação do p-cresol.",
             "imagem_url_enun": "img/q5mod32018quidisc.png",
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq5mod32018quidisc.png"
+            "resposta_esperada": "img/Respq5mod32018quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -3776,8 +3776,8 @@
         "questao": {
             "enunciado": "O H2Sé encontrado tanto em solução aquosa (solúvel em água) quanto na forma gasosa, altamente tóxico, inflamável, irritante, além de apresentar odor característico semelhante ao de ovos podres. Com base nas características do H2S responda os itens abaixo.\na) Qual a função inorgânica do H2S?\nb) Escreva a estrutura de Lewis para o H2S. Qual o tipo de geometria molecular existente?\nc) Com basenas forças intermoleculares, justifique o fato do H2Stambém ser encontrado na forma gasosa, a partir da decomposição de matéria orgânica.\nd) O H2S conduz corrente elétricaquando dissolvido em água? Justifique",
             "imagem_url_enun": null,
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq1mod12017quidisc.png"
+            "resposta_esperada": "img/Respq1mod12017quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -3800,8 +3800,8 @@
         "questao": {
             "enunciado": "O hidrogênio cada vez mais tem ganhado atenção na produção de energia. Recentemente, a empresa britânica Intelligent Energy desenvolveu uma tecnologia que pode fazer a bateria de um smartphone durar até uma semana. Nesse protótipo ocorre a reação do oxigênio atmosférico com o hidrogênio armazenado produzindo água e energia.\na) Escreva a equação química da reação descrita acima e calcule a sua variação de entalpia apartir dos dados abaixo.\n img/q1mod22017quidisc.png \nb) Um dos grandes problemas para o uso do gás hidrogênio como combustível é o seu armazenamento. Calcule o volume ocupado por 20 g de hidrogênio nas CNTP.\nc) Atualmente, cerca de 96 % do gás hidrogênio é obtido apartir de combustíveis fósseis, como descrito nas reações abaixo. Essa característica é considerada uma desvantagem para o uso do hidrogênio.Justifique essa afirmativa.\nCarvão:C(s) + H2O() CO(g) + H2(g)\nGás natural: CH4(g)+ H2O() CO(g) + 3 H2(g)",
             "imagem_url_enun": null,
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq2mod22017quidisc.png"
+            "resposta_esperada": "img/Respq2mod22017quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -3812,8 +3812,8 @@
         "questao": {
             "enunciado": "O leite é uma das melhores fontes de cálcio disponível (200 mg de íons Ca<sup>2+</sup> para cada 200 mL de leite). Por isso, este alimento é essencial para a saúde dos ossos e dentes e seu consumo pode prevenir a osteoporose, eventualmente.\na) Qual a concentração de íons cálcioem mol L<sup>-1</sup> presente no leite?\nb) O leite também é uma importante fonte de vitaminas, dentre elas a vitamina A.Qual a hibridação dos átomos de carbono 1, 2, 3 e 4 na estrutura da vitamina A?\n img/q2mod22017quidisc.png \nc) Atualmente a adulteração do leite está muito frequente, principalmente com a adição de formol (metanal), uréia (diaminometanal) e água. Escreva as fórmulas estruturais do formol e da uréia.",
             "imagem_url_enun": null,
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq2mod22017quidisc.png"
+            "resposta_esperada": "img/Respq2mod22017quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -3824,8 +3824,8 @@
         "questao": {
             "enunciado": "O ozônio é um gás que existe em pequenas quantidades (cerca de 10 %) na troposfera, mas em maior concentração na estratosfera, constituindo a camada de ozônio.\na) Na troposfera, o ozônio reage com o óxido de nitrogênio produzindo oxigênio e dióxido de nitrogênio, cuja constante de equilíbrio é 6,0 x 1034. De acordo com as concentrações descritas abaixo,verifique se o sistema está em equilíbrio.\n img/Aq1mod32017quidisc.png \nb) Utilizando os dados para a reação do ozônio com o dióxido de nitrogênio na atmosfera, fornecidos abaixo, determine a expressão da velocidade e calcule o valor da constante de velocidade dessa reação.\n img/Bq1mod32017quidisc.png \nc) Na troposfera,o ozônio também reage com compostos orgânicos insaturados prejudicando a qualidade de vida dos organismos vivos. Escreva a reação de ozonólisedo 2-metilbuteno na troposfera.",
             "imagem_url_enun": null,
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq1mod32017quidisc.png"
+            "resposta_esperada": "img/Respq1mod32017quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -3848,8 +3848,8 @@
         "questao": {
             "enunciado": "Os ácidos abaixo estão presentes em alimentos de forma artificial e natural. A indústria alimentícia utiliza ácido málico na composição de geleias, marmeladas e bebidas de frutas. O ácido tartárico é utilizado pela indústria de alimentos na produção de fermentos. Já o ácido fumárico é empregado como agente flavorizante para dar sabor a sobremesas e proporcionar ação antioxidante.\na) Escreva a reação de oxidação do ácido tartárico em meio de KMnO4.\n img/q3mod32017quidisc.png \nb) Quaisdos ácidos representados acima apresentam b.1) isomeria geométrica e b.2) isomeria óptica?\nO ácido maleico, usado na produção de resinas sintéticas, é um isômero do ácido fumárico e pode ser produzido artificialmente a partir do ácido málico. Escreva a reação de produção do ácido maleico a partir do ácido málico\n img/Cq3mod32017quidisc.png \nd) d) Escreva a reação de hidrogenação do ácido fumárico na presença de níquel.",
             "imagem_url_enun": null,
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq3mod32017quidisc.png"
+            "resposta_esperada": "img/Respq3mod32017quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -3872,8 +3872,8 @@
         "questao": {
             "enunciado": "Existe uma nítida diferença de sabor dos peixes provenientes de água doce quando comparados aos peixes de água salgada. Esta diferença de sabor, marinado ou iodado dos peixes de água salgada, especialmente os criados em ambientes marinhos, se dá devido à presença dos compostos aromáticos 2-bromofenol e o 4- bromofenol presentes na dieta.\nFonte:http://quimicanova.sbq.org.br/detalhe_artigo.asp?id=1732\na) Escreva a equação química para a formação do 2-bromofenol e do 4-bromofenol a partir do fenol e Br2, na presença de FeBr3.\nb) O fenol é matéria-prima para a produção de outros fenóis usados como antissépticos, fungicidas e desinfetantes.Complete a sequência de reações que mostra a produção de 2-metilfenol e 4-metilfenol, indicando as substâncias A e B. Discuta a função de B na reação.\n img/q5mod32017quidisc.png \nc) O fenol também pode ser usado na produção do4-nitrofenol. Este composto pode ser usado como indicador de pH, pois ele é amarelo em pH acima de 7 e incolor em pH abaixo de 6. Qual a cor do indicador na presença da água dos reservatórios 1 e 2 usados na piscicultura?",
             "imagem_url_enun": null,
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq5mod32017quidisc.png"
+            "resposta_esperada": "img/Respq5mod32017quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -3884,8 +3884,8 @@
         "questao": {
             "enunciado": "O nitinol é uma liga metálica incomum, formada pelos metais Ni e Ti, sua principal característica é ser uma liga com memória. Essa liga pode ser suficientemente modificada por ação de alguma força externa e retornar a sua estrutura original em uma determinada faixa de temperatura, conforme esquema a seguir.\na) Escreva o nome e a distribuição eletrônica dos metais presentes no nitinol.\nb) Dentre os metais usados na produção do nitinol, qual possui maior raio atômico? E qual possui maior potencial de ionização?\nc) Uma das formas de produção do metal Ni de alta pureza para a confecção de ligas metálicas é a extração de minerais sulfetados, os quais possui o NiS. Qual o nome do composto NiS? Qual é o tipo de ligação química que ocorre entre seus átomos?\nd) Cite dyas características comuns aos metais.",
             "imagem_url_enun": "img/q1mod12016quidisc.png",
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq1mod12016quidisc.png"
+            "resposta_esperada": "img/Respq1mod12016quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -3896,8 +3896,8 @@
         "questao": {
             "enunciado": "Dois estudantes do ensino médio estavam brincando de forca durante a aula de Química. O professor resolveu dar-lhes uma charada baseada no assunto da aula: Propriedades periódicas¹\nSiga as dicas e veja se consegue matar a charada!\n\nDicas:\nI. É um nome próprio feminino com três sílabas\nII. A primeira sílaba correspondente a um elemento que possui 7 elétrons de valência e está no quinto período da Tabela Periódica.\nIII. A segunda sílaba correspondente ao elemento que possui 10 prótons, 10 elétrons e 10 nêutrons.\na) Você matou a charada! Então, qual é o nome?\nb) Sabe-se que o elemento correspondente à primeira sílaba do nome formado acima sublima em condições ambientais formando uma substância simples (gás diatômico) de coloração violeto e odor irritante. Represente a estrutura de Lewis para o gás diatômico de formado.\nc) Qual é a fórmula dos compostos formados entre o elemento correspondente a dica 2 da charada e os elementos químicos potássio e hidrogênio? De acordo com os dados que constam na tabela abaixo, qual o estado físico destes compostosa a 25°C?\nd) Qual a família correspondente a terceira sílaba da charada? Cite uma característica deta família?",
             "imagem_url_enun": "img/q2mod12016quidisc.png",
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq2mod12016quidisc.png "
+            "resposta_esperada": "img/Respq2mod12016quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -3908,8 +3908,8 @@
         "questao": {
             "enunciado": "A fotoproteção previne efeitos danosos da radiação uiravioleta (UV). As principais formas de fotoproteção Incluem os protetores solares com filtros inorgânicos e orgânicos. Os fios orgânicos são moléculas capazes de absorver radiação UVA é UVB é tansfomáias em radiações energéticas inofensivas so ser humano O ácido 4-aminobenzóico (PABA) e a Benzolenona-3 (Bz:3) são exemplos de fitros orgânicos ublizados em protetores solares e cosméticos.\n(a) Escreva a formula estrutural do PABA e calcule sua massa molecular,\nb) De acordo com a estrutura da Bz-3 agresentada abaixo, de o nome das funções orgânicas oxigenadas e o número de carbono com hibridação sp² presentes nesta molécula.\nc) Sabendo-se que a concentração de Benzofenona-3 presente em um protetor solar é de 0.5 % (mim), calcule a massa de Benzofenona-3 presente em um frasco de 200 mL desse protetor. Obs: A densidade do protetor solar é 1,0 g/cm³",
             "imagem_url_enun": null,
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq1mod22016quidisc.png"
+            "resposta_esperada": "img/Respq1mod22016quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -3920,8 +3920,8 @@
         "questao": {
             "enunciado": "Uma das consequências de certos exageros na alimentação é a chamada azia. As membranas das células estomacais permitem a passagem de águe e de outras moléculas neutras e bloqueiam, em geral, a passagemde alguns íons como H<sup>+</sup>, Na<sup>+</sup>, K<sup>+</sup> e Cl<sup>-</sup>. O excesso de íons H<sup>+</sup> pode causar dor, inchaço, e consequentemente, a azia.\na) Qual o tratamento mais adequado para diminuir a sensação de azia?\nb) Um dos antiácidos comerciais mais comuns é o leite de magnésia (hidróxido de magnésio). Escreva a equação química balanceada entre o ácido clorídirico presente no estômago e este agente antiácido.\nc) A azia pode ser tratada também com o bicarbonato de sódio, que é uma base fraca. Nesse caso, ao reagir com o ácido clorídrico do estômago, ocorre a liberação de um gás manifestado através de uma eructação (arroto). Escreva a equação química correspondente e indique o nome do gás que está sendo liberado.\nd) Baseado no item anterior, qual o volume de gás liberado (em mL) nas CNTP, sabendo-se que 0,42 g de bicarbonato de sódio reagiram completamente com o ácido clorídrico presente no suco gástrico?",
             "imagem_url_enun": null,
-            "resposta_esperada": "",
-            "imagem_url_resp": "img/Respq2mod22016quidisc.png"
+            "resposta_esperada": "img/Respq2mod22016quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -3932,8 +3932,8 @@
         "questao": {
             "enunciado": "As pilhas alcalinas tem a base de funcionamento muito parecida com a pilha seca de Leclanché (pilha comum), uma vez que ambas usam o zinco metálico e o MnO<sub>2</sub> como polos. A grande diferença entre elas é o fato de que na pilha comum tem-se a presença de íon amônio, enquanto na pilha alcalina o íon amômio é substituído pelo íon hidrôxido.\na) Escreva a reação global e calcule a diferença de potencial para a pilha alcalina.\nb) A pilha alcalina tem uma durabilidade de 5 a 8 vezes maior que a pilha comum; essa característica está relacionada ao fato de que na pilha comum ocorre a produção de amônia. Escreva a reação global da pilha comum mostrando a formação da amônia.\nc) Indique a espécia que atua como agente redutor nas duas pilhas.\nd) Qual a direção do fluxo de elétrons na pilha alcalina e na pilha comum?",
             "imagem_url_enun": "img/q1mod32016quidisc.png",
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq1mod32016quidisc.png"
+            "resposta_esperada": "img/Respq1mod32016quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -3944,8 +3944,8 @@
         "questao": {
             "enunciado": "O ácido lático (ácido 2-hidroxipropanóico) é um ácido orgânico de fórmula C<sub>3</sub>H<sub>6</sub>O<sub>3</sub>, de cor cristalina, sabor suave e ligeiramente salino e solúvel em água. O organismo humano produz ácido lático em quantidades expressivas durante a realização de exercícios físicos, pois sua oxidação é uma grande fonte de energia. Entretanto, um excesso desta substância ocasiona muito cansaço e dores musculares.\na) Quantos carbonos quirais o ácido lático possui? Qual o tipo de isomeria está associada a essa característica?\nb) No ciclo de Krebs o ácido lático é oxidado (oxidação do álcool), na presença de oxigênio, formando ácido pirúvico. Após esta etapa, o ácido pirúvio é oxidado pelo oxigênio formando CO<sub<2</sub> e H<sub>2</sub>O no sistema de transporte de elétrons. Escreva as reações químicas que mostram as duas etapas citadas.\nc) O ácido lático acumulado no sangue e nos músculos durante a realização de exercícios físicos é removido durante o período de recuperação. A velocidade desta remoção depende do fato de estar em repouso ou de realizar exercícios leves durante a recuperação. Sabendo-se que no repouso o fluxo de oxigênio no organismo é de aproximadamente 0,39 L/min, e na prática de exercícios leves esse fluxo chega a 2,5 L/min, em qual das duas situações o processo de oxidação do ácido lático é mais eficiente? Por quê?\nd) Sabendo que a concentração de íons H<sup>+</sup> de uma solução aquosa de ácido lático é 5 x 10<sup>-5</sup> mol/L, qual a concentração de OH<sup>-</sup>, em mol/L, nessa solução? Dado: K<sub>w</sub> = 1 x 10<sup>-14</sup>",
             "imagem_url_enun": null,
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq2mod32016quidisc.png"
+            "resposta_esperada": "img/Respq2mod32016quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -3956,8 +3956,8 @@
         "questao": {
             "enunciado": "O ácido acetil salicílico (AAS) e o salicilato de metila são fármacos muito consumidos no mundo. O primeiro possui ação analgésica, antitérmica, anticoagulante entre outras, enquando o segundo possui ação analgésica. Estes dois princípios ativos podem ser preparados facilmente em laboratório através de uma reação conhecida como esterificação de Fisher\n img/q3mod32016quidisc.png \na) Escreva a reação química de esterificação em meio ácido 2-hidroxibenzóico com metanol. Qual dos dois fármacos citados acima foi produzido nesta síntese?\nb) Escreva a reação de hidrólise em meio ácido do AAS.\nc) Indique uma forma na qual o equilíbrio pode ser deslocado para aumentar o rendimento da síntese do produto formado no item a.\nd) Escreva a reação de dissociação do AAS em água.",
             "imagem_url_enun": null,
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq3mod32016quidisc.png"
+            "resposta_esperada": "img/Respq3mod32016quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -3968,8 +3968,8 @@
         "questao": {
             "enunciado": "Na indústria química, uma das etapas de produção do ácido sulfúrico é a formação do trióxido de enxofre por meio da reação de combustão do dióxido de enxofre pelo catalisada pelo dióxido de nitrogênio, conforme esquema abaixo\n img/q4mod32016quidisc.png \na) O que acontece, quimicamente, com o dióxido de nitrogênio no processo de formação do SO<sub>3</sub>?\nb) Qual a diferença fundamental entre a reação catalisada e a não catalisada?\nc) A velocidade de uma reação global é dependente da velocidade da etapa lenta. Escreva a expressão da lei de velocidade para a reação global de formação do trióxido de enxofre\nd) Após a reação de produção de SO<sub>3(g)</sub> atingir o equilíbrio, represente qualitativamente no gráfico com a variação da concentração do SO<sub>3</sub> com o aumento da temperatura em um experimento no qual a pressão total dos gases seja mantida constante.",
             "imagem_url_enun": null,
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq4mod32016quidisc.png "
+            "resposta_esperada": "img/Respq4mod32016quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -3992,8 +3992,8 @@
         "questao": {
             "enunciado": "Considere as substâncias puras KOH e HNO3 e suas propriedades apresentadas na Tabela 1 e responda aos itens abaixo.\nTabela 1: Propriedades físicas e químicas das substâncias puras KOH e HNO3\n img/q1mod12015quidisc.png \nFonte: CRC Handbook of Chemistry and Physics, 95th Edition, William M. Haynes (ed.) 2014-2015.\n\na) Escreva o nome das substâncias e seus estados físicos a 25 °C.\nb) Quais são os tipos de ligação química existentes nas duas substâncias puras?\nc) Escreva a fórmula estrutural do HNO3.\nd) Explique por que as duas substâncias puras não conduzem corrente elétrica.",
             "imagem_url_enun": null,
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq1mod12015quidisc.png"
+            "resposta_esperada": "img/Respq1mod12015quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -4064,8 +4064,8 @@
         "questao": {
             "enunciado": "A isomerização do cis-2-buteno a trans-2-buteno no estado gasoso pode ser realizada na presença do catalisador Cr2O3/alumina, como apresentado na equação química abaixo:\n img/q3mod32015quidisc.png\nEssa reação química tem constante de equilíbrio igual a 1,41 a 709 K (Fonte: Happel, Hnatov, Mezaki, Journal of Chemical and Engineering Data, 1971, 16, 206-209).\n\na) Se 5,0 g de cis-2-buteno forem adicionados a um recipiente de 1,0 L e aquecidos a 709 K na presença de Cr2O3/alumina, calcule a concentração de cis-2-buteno e trans-2-buteno quando o equilíbrio químico for atingido.\nb) Depois que o equilíbrio foi atingido, mais 1,0 g de trans-2-buteno foi adicionado ao recipiente da reação. Calcule a nova concentração do cis-2-buteno no equilíbrio.\nc) Sem fazer cálculos, prediga o que deve ocorrer com a concentração das substâncias no item (a) se o volume do recipiente for diminuído pela metade, sem a adição de nenhuma das espécies.",
             "imagem_url_enun": null,
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq3mod32015quidisc.png"
+            "resposta_esperada": "img/Respq3mod32015quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -4076,8 +4076,8 @@
         "questao": {
             "enunciado": "Um composto análogo do BMS-817399, representado pela estrutura química abaixo, vem sendo reconhecido como candidato para tratamento de artrite.\n img/q4mod32015quidisc.png \nConsiderando a estrutura química e as possíveis reações desse composto, responda às questões a seguir\na) A reação química do composto com uma solução aquosa ácida produz, preferencialmente, uma mistura de isômeros geométricos. Escreva o nome da reação química e a estrutura de um dos isômeros.\nb) Forneça a estrutura química do produto de maior massa molar, obtido pela reação da mistura de compostos gerados no item acima com o ozônio.\nc) Uma das etapas de síntese do análogo do BMS-817399 é a reação de cloração do anel aromático. Considerando esse tipo de reação orgânica, represente a equação química para a cloração do tolueno (metilbenzeno). Informe as posições preferenciais para a cloração e justifique a sua resposta.",
             "imagem_url_enun": null,
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq4mod32015quidisc.png"
+            "resposta_esperada": "img/Respq4mod32015quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
@@ -4088,8 +4088,8 @@
         "questao": {
             "enunciado": "O Efavirenz e o Clopidrogel, cujas estruturas estão representadas a seguir, são fármacos de alta rentabilidade da indústria farmacêutica utilizados no tratamento de doenças virais e neurodegenerativas, respectivamente.\n img/q5mod32015quidisc.png \nResponda às questões abaixo.\na) Escreva a equação química para a reação do Clopidrogel com uma solução aquosa de NaOH.\nb) O composto Clopidrogel apresenta qual tipo de isomeria? Represente a estrutura química de um dos isômeros.\nc) O Clopidrogel apresenta o metabólito A, cuja estrutura química está representada abaixo. Dê o produto principal da reação entre o metabólito A e o hidreto de lítio e alumínio (LiAlH4).\nd) Qual é a estrutura química do produto principal formado pela reação de 1 mol de Efavirenz na presença de 2 moles de Br2.",
             "imagem_url_enun": null,
-            "resposta_esperada": null,
-            "imagem_url_resp": "img/Respq5mod32015quidisc.png"
+            "resposta_esperada": "img/Respq5mod32015quidisc.png",
+            "imagem_url_resp": null
         }
     },
     {
